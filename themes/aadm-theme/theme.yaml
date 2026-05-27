@@ -1,0 +1,12 @@
+name: aadm-theme
+license: MIT
+licenselink: https://opensource.org/licenses/MIT
+description: Custom Bootstrap 5 theme for AAdM blog
+homepage: https://aadm.pages.dev
+tags:
+  - blog
+  - bootstrap
+min_version: 0.145.0
+author:
+  name: aadm
+  homepage: https://aadm.pages.dev

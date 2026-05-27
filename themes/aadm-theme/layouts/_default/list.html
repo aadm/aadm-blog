@@ -1,0 +1,37 @@
+{{ define "main" }}
+  <h1 class="mb-4">{{ .Title }}</h1>
+
+  {{ if eq .Kind "taxonomy" }}
+    {{ range .Data.Terms.ByCount }}
+      <div class="mb-2">
+        <a href="{{ .Page.RelPermalink }}" class="text-decoration-none fs-5">{{ .Page.Title }}</a>
+        <span class="text-muted small">({{ .Count }})</span>
+      </div>
+    {{ end }}
+  {{ else if eq .Kind "term" }}
+    {{ range .Pages }}
+      <article class="mb-3 pb-3 border-bottom">
+        <h5 class="mb-1"><a href="{{ .RelPermalink }}" class="text-decoration-none text-reset">{{ .Title }}</a></h5>
+        <div class="text-muted small">
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format (site.Params.dateFormat | default "2006-01-02") }}</time>
+        </div>
+      </article>
+    {{ end }}
+  {{ else }}
+    {{ range .Pages }}
+      <article class="mb-3 pb-3 border-bottom">
+        <h5 class="mb-1"><a href="{{ .RelPermalink }}" class="text-decoration-none text-reset">{{ .Title }}</a></h5>
+        <div class="text-muted small">
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format (site.Params.dateFormat | default "2006-01-02") }}</time>
+          {{ with .Params.tags }}
+            &mdash;
+            {{ range $i, $tag := . }}
+              {{- if $i }}, {{ end -}}
+              <a href="{{ "tags/" | relURL }}{{ $tag | urlize }}/" class="text-muted">{{ $tag }}</a>
+            {{ end }}
+          {{ end }}
+        </div>
+      </article>
+    {{ end }}
+  {{ end }}
+{{ end }}

@@ -1,0 +1,68 @@
+- id: postedOnDate
+  translation: "Posted on {{ . }}"
+- id: lastModified
+  translation: "Last modified on {{ . }}"
+- id: readMore
+  translation: "Read More"
+- id: olderPosts
+  translation: "Older Posts"
+- id: newerPosts
+  translation: "Newer Posts"
+- id: previousPost
+  translation: "Previous Post"
+- id: nextPost
+  translation: "Next Post"
+- id: readTime
+  translation: "min"
+- id: words
+  translation: "words"
+- id: pageNotFound
+  translation: "Whoops, this page doesn't exist. Move along. (404 error)"
+- id: poweredBy
+  translation: '<a href="https://gohugo.io">Hugo v{{ .Version }}</a> powered &nbsp;&bull;&nbsp; Theme <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> adapted from <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>'
+- id: toggleNavigation
+  translation: "Toggle navigation"
+- id: languageSwitcherLabel
+  translation: "Language"
+- id: seeAlso
+  translation: "See also"
+- id: categoriesLabel
+  translation: "Categories: "
+- id: menu_setup
+  translation: "Setup"
+- id: menu_configuration
+  translation: "Configuration"
+- id: menu_layout-options
+  translation: "Layout Options"
+- id: menu_theming
+  translation: "Theming"
+- id: menu_seo-and-i18n
+  translation: "SEO & i18n"
+- id: menu_comments-and-social
+  translation: "Comments & Social"
+- id: menu_features
+  translation: "Features"
+- id: menu_pages-and-layouts
+  translation: "Pages & Layouts"
+- id: menu_shortcodes
+  translation: "Shortcodes"
+- id: menu_code-blocks
+  translation: "Code Blocks"
+- id: menu_markdown-extensions
+  translation: "Markdown Extensions"
+- id: menu_figures-and-galleries
+  translation: "Figures & Galleries"
+- id: menu_math-and-diagrams
+  translation: "Math & Diagrams"
+- id: menu_blog
+  translation: "Blog"
+- id: menu_post
+  translation: "Posts"
+- id: menu_tags
+  translation: "Tags"
+- id: menu_categories
+  translation: "Categories"
+- id: menu_archives
+  translation: "Archives"
+- id: menu_about
+  translation: "About"

@@ -1,0 +1,7 @@
+{{ define "main" }}
+  <div class="text-center py-5">
+    <h1 class="display-1 text-muted">404</h1>
+    <p class="lead">{{ T "notFound" }}</p>
+    <p><a href="{{ .Site.Home.RelPermalink }}" class="text-decoration-none">{{ T "backHome" }}</a></p>
+  </div>
+{{ end }}

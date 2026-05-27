@@ -1,0 +1,26 @@
+{{ define "main" }}
+  {{ $paginator := .Paginate (where .Site.RegularPages "Type" "post") }}
+  {{ range $paginator.Pages }}
+    <article class="mb-5 pb-4 border-bottom">
+      <header class="mb-3">
+        <h2 class="mb-1"><a href="{{ .RelPermalink }}" class="text-decoration-none text-reset">{{ .Title }}</a></h2>
+        <div class="text-muted small">
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format (site.Params.dateFormat | default "2006-01-02") }}</time>
+          {{ with .Params.tags }}
+            &mdash;
+            {{ range $i, $tag := . }}
+              {{- if $i }}, {{ end -}}
+              <a href="{{ "tags/" | relURL }}{{ $tag | urlize }}/" class="text-muted">{{ $tag }}</a>
+            {{ end }}
+          {{ end }}
+        </div>
+      </header>
+      <div class="content">
+        {{ .Summary }}
+        {{ if .Truncated }}<p><a href="{{ .RelPermalink }}" class="text-decoration-none">{{ T "readMore" }} &rarr;</a></p>{{ end }}
+      </div>
+    </article>
+  {{ end }}
+
+  {{ template "_internal/pagination.html" . }}
+{{ end }}

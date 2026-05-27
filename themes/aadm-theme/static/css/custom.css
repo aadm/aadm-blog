@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,700;1,700&family=Roboto:ital,wght@0,300;0,700;1,300;1,700&family=Roboto+Mono&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 1.25rem;
+  line-height: 1.7;
+}
+
+.navbar-brand {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+}
+
+.navbar-nav {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'PT Serif', serif;
+  font-style: italic;
+  font-weight: 700;
+}
+
+.content h2 { margin-top: 1.5em; margin-bottom: 0.5em; }
+.content h3 { margin-top: 1.2em; margin-bottom: 0.4em; }
+.content p { margin-bottom: 1em; }
+
+blockquote {
+  border-left: 10px solid #ccc;
+  font-size: 90%;
+  font-style: italic;
+  margin: 1.5em 0;
+  padding: 0.5em 1em;
+}
+
+.content img {
+  max-width: 100%;
+  height: auto;
+  margin: 1.5em 0;
+}
+
+.sidebar .card-title {
+  font-style: italic;
+  font-weight: 700;
+  font-family: 'PT Serif', serif;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+
+article header h2 a:hover {
+  text-decoration: underline !important;
+}

@@ -1,0 +1,11 @@
+---
+title: excuse me sir
+date: '2011-10-13T12:39:00'
+tags:
+- quote
+- computer
+---
+
+"Excuse me, sir, would you mind taking our photo?"
+
+-- [http://blog.pluckytree.org/2011/10/last-time-i-saw-steve-jobs.html](http://blog.pluckytree.org/2011/10/last-time-i-saw-steve-jobs.html)

@@ -1,0 +1,23 @@
+<div class="sidebar">
+  <div class="card mb-3">
+    <div class="card-body">
+      <h5 class="card-title">{{ T "recentPosts" }}</h5>
+      <ul class="list-unstyled mb-0">
+        {{ range first 8 (where .Site.RegularPages "Type" "post") }}
+          <li class="mb-1"><a href="{{ .RelPermalink }}" class="text-decoration-none">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+
+  <div class="card mb-3">
+    <div class="card-body">
+      <h5 class="card-title">{{ T "tags" }}</h5>
+      <div>
+        {{ range .Site.Taxonomies.tags.ByCount }}
+          <a href="{{ .Page.RelPermalink }}" class="badge bg-secondary text-decoration-none me-1 mb-1">{{ .Page.Title }} ({{ .Count }})</a>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</div>

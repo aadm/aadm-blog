@@ -1,0 +1,13 @@
+{{- $src := .Get 0 -}}
+{{- $alt := .Get 1 | default "" -}}
+{{- $caption := .Get 2 | default "" -}}
+{{- $cdn := site.Params.cdn_base | default "" -}}
+{{- $url := printf "%s/%s" $cdn $src -}}
+{{- if $caption -}}
+<figure>
+  <img src="{{ $url }}" alt="{{ $alt }}" loading="lazy">
+  <figcaption>{{ $caption }}</figcaption>
+</figure>
+{{- else -}}
+<img src="{{ $url }}" alt="{{ $alt }}" loading="lazy">
+{{- end -}}

@@ -1,0 +1,26 @@
+{{ if not .IsHome }}
+  {{ $title := "" }}
+  {{ if .IsHome }}
+    {{ $title = .Site.Params.homeTitle | default .Site.Title }}
+  {{ else }}
+    {{ $title = .Title }}
+  {{ end }}
+  {{ $mainSections := default (slice "post" "posts") site.Params.mainSections }}
+  {{ $isMainContent := in $mainSections .Type }}
+  <header class="header-section">
+    <div class="intro-header no-img">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-10 offset-md-1">
+            <div class="{{ .Type }}-heading">
+              <h1>{{ $title }}</h1>
+              {{ if $isMainContent }}
+                {{ partial "post_meta.html" . }}
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+{{ end }}

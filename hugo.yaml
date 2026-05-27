@@ -1,0 +1,76 @@
+baseURL: https://aadm.pages.dev/
+defaultContentLanguage: en
+title: AAdM
+theme: beautifulhugo
+
+# preserve old Pelican URL structure exactly
+permalinks:
+  post: /:year-:month-:day-:slug.html
+  page: /:slug/
+
+pagination:
+  pagerSize: 15
+enableRobotsTXT: true
+buildDrafts: false
+
+# disable unused taxonomies
+disableKinds:
+  - RSS
+
+taxonomies:
+  tag: tags
+
+params:
+  author:
+    name: aadm
+    github: aadm
+    bluesky: aadm
+  license: CC-BY-NC-ND
+  description: AAdM blog
+  favicon: /favicon.png
+  cdn_base: https://pub-1628787844284ae491ce9701de3b337e.r2.dev
+  dateFormat: 2006-01-02
+  colorScheme: light
+  since: 2005
+  mathEngine: "mathjax"
+
+languages:
+  en:
+    locale: en-us
+    label: English
+    weight: 1
+    params:
+      subtitle: "Thoughts, photos and other stuff"
+  it:
+    locale: it-it
+    label: Italiano
+    weight: 2
+    params:
+      subtitle: "Pensieri, foto e altre cose"
+
+menu:
+  main:
+    - identifier: projects
+      name: projects
+      url: /projects/
+      weight: 10
+    - identifier: archive
+      name: archive
+      url: /archive/
+      weight: 20
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 30
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 40
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: tango
+    lineNos: true

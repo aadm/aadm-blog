@@ -1,0 +1,12 @@
+---
+title: tech bloggers and xkcd
+date: '2011-03-24T23:41:00'
+tags:
+- misc
+- tech
+---
+
+![](http://dl.dropbox.com/u/179731/4071979061.png)
+
+[Randall](http://xkcd.com/) is one of my favourite authors. This comic here
+sums up perfectly my current feelings about tech bloggers (also read [this rant](http://aadm.github.io/2011-02-17-english-writers.html) that I wrote some time ago).
