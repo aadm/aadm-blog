@@ -89,7 +89,7 @@
                   <ul class="dropdown-menu dropdown-menu-end">
                     {{ range $pageTranslations }}
                       {{ if not (eq .Lang $.Site.Language.Lang) }}
-                      <li><a class="dropdown-item" href="{{ .Permalink }}">{{ default .Lang .Site.Language.LanguageName }}</a></li>
+                      <li><a class="dropdown-item" href="{{ .Permalink }}">{{ default .Lang .Site.Language.Label }}</a></li>
                       {{ end }}
                     {{ end }}
                   </ul>
@@ -99,7 +99,7 @@
             {{ if .IsTranslated }}
               {{ range .Translations }}
                 <li class="nav-item" >
-                  <a class="nav-link" href="{{ .Permalink }}">{{ default .Lang .Site.Language.LanguageName }}</a>
+                  <a class="nav-link" href="{{ .Permalink }}">{{ default .Lang .Site.Language.Label }}</a>
                 </li>
               {{ end}}
             {{ end }}

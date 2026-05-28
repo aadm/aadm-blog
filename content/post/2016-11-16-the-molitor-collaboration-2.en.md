@@ -8,7 +8,6 @@ tags:
 
 ![Photo](https://pub-1628787844284ae491ce9701de3b337e.r2.dev/media/20161119_AA42093.jpg)
 
-
 It's finished! It's alive! And it's been discussed on all the major channels, like:
 
 * Andrew's blog:
