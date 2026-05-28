@@ -9,10 +9,7 @@ tags:
 Obviously I remember quite clearly this photo and the entire [NYT photo essay on Cuba](https://www.nytimes.com/interactive/2016/03/19/world/americas/cuba-on-the-edge-of-change-photo-essay.html)
 . I remember it because it also came up on [TOP along with a pretty much sterile discussion](http://theonlinephotographer.typepad.com/the_online_photographer/2016/03/what-should-a-color-photo-look-like.html) about how truthful or not were the color rendition in these photographs:
 
-<figure>
 {{< figure src="media/TOP_post_2016-03-21_Cuba.png" >}}
-</figure>
-
 
 I went to Cuba for a short holiday with my family a couple of months after I'd read this essay, did my thing with a camera like I always do, and only recently picked my best photos and published them [here](/2017-02-12-pretty-pictures-of-cuba.html) on my blog.
 

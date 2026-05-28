@@ -1,6 +1,6 @@
 baseURL: https://aadm-blog.pages.dev/
 defaultContentLanguage: en
-title: AAdM-blog
+title: AAdM
 theme: beautifulhugo
 
 # preserve old Pelican URL structure exactly
@@ -39,6 +39,7 @@ languages:
     locale: en-us
     label: English
     weight: 1
+    
     params:
       subtitle: "Thoughts, photos and other stuff"
   it:

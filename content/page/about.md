@@ -2,13 +2,13 @@
 title: about
 ---
 
-I have been calling myself `aadm` on the internet since forever. I have a very long name, and I have always wanted it to be much shorter: that's why `aadm`.
+I have been calling myself `aadm` on the internet since forever. I have a very long name, so an acronym makes sense: that's why `aadm`.
+
+I was born and raised in Southern Italy and have lived in Gravina, Bari, London, Milano, Stavanger. I have returned to Milano in September 2018.
 
 I like photography and making photographs.
 
 The journal also collects my random writings about all the other things that interest me, like bikes (with and without engine), coding and generic computer hacking.
-
-I was born and raised in Southern Italy and have lived in Gravina, Bari, London, Milano, Stavanger. I have returned to Milano in September 2018.
 
 Please do not steal, manipulate or remix my photos, illustrations and content without my consent. You may link to the site and quote selected text only if you put a a link back to the original content.
 
