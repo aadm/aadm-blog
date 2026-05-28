@@ -1,4 +1,5 @@
 ---
+date: 2013-11-22
 title: ciao alfonsine
 tags:
 - photo

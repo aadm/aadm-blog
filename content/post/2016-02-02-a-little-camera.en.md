@@ -35,13 +35,13 @@ So the D600 was here to stay; what I was missing was probably a smaller camera t
 
 And mind you, it's not that I am big-heavy-zoom DSLR user; on the contrary, the lenses that I use the most with my D600 are an old 50mm AF f/1.4 and a manual focus 28mm f/2.8. I am used to bring the Nikon with me everywhere but in actual fact, sometimes it _is_ indeed a bit heavy and cumbersome (I remember hiking with my little daughter in the backpack and the Nikon stuffed between sandwiches and nappies).
 
-So yeah, I could do with a small camera. And I still had good memories of [my GF1]({filename}2012-07-31-panasonic-gf1-late-review.md), that was lying unused somewhere. There were these small compact cameras with big sensor that were enticing (Nikon Coolpix A and Ricoh GR) but their lenses were fixed 28mm-equivalent and I simply don't see that wide; if I only have one lens that's gonna be a 50mm or something like that.
+So yeah, I could do with a small camera. And I still had good memories of [my GF1](/2012-07-31-panasonic-gf1-late-review.html), that was lying unused somewhere. There were these small compact cameras with big sensor that were enticing (Nikon Coolpix A and Ricoh GR) but their lenses were fixed 28mm-equivalent and I simply don't see that wide; if I only have one lens that's gonna be a 50mm or something like that.
 
 <figure>
 <a href="https://www.flickr.com/photos/aadm/24735192056" title="20151013_OMD0350.jpg"><img src="https://farm2.staticflickr.com/1662/24735192056_10b00d9d19_h.jpg" width="800" height="533"></a>
 </figure>
 
-So I did an experiment; revived my GF1, bought a new lens (a 50mm equivalent, obviously -- the Olympus 25mm f/1.8) and used it to document [my trip up north]({filename}/pages/northbound.md) at the end of August last year. And guess what -- I had fun with it, and at the end I got the proper images to tell my story; not particularly rich or detailed but good honest little black and white snapshots.
+So I did an experiment; revived my GF1, bought a new lens (a 50mm equivalent, obviously -- the Olympus 25mm f/1.8) and used it to document [my trip up north](/northbound/) at the end of August last year. And guess what -- I had fun with it, and at the end I got the proper images to tell my story; not particularly rich or detailed but good honest little black and white snapshots.
 
 That was undeniable proof that I was on the right track; I kept my 25mm and completed the upgrade buying the 'old' Olympus OMD-EM10 (its second iteration had just been announced) and the 45mm f/1.8 taking advantage of the end-of-life discounts that Olympus Europe was having over the summer. The crazy thing is that I paid the body only 350 euros. With the same money I could probably have bought a knob of a Leica. And with 2.5 Leica-knobs I now had a tiny system covering all my most used focal lengths (I still had the old Panasonic 14mm -- a 28mm-equivalent -- from my GF1 days).
 

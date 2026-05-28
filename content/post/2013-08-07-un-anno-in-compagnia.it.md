@@ -1,4 +1,5 @@
 ---
+date: 2013-08-07
 title: un anno in compagnia
 tags:
 - photo

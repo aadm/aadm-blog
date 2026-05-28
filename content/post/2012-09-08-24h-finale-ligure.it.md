@@ -1,4 +1,5 @@
 ---
+date: 2012-09-08
 title: 24h finale ligure
 tags:
 - cycling

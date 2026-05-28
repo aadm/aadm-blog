@@ -1,4 +1,5 @@
 ---
+date: 2012-11-05
 title: wildlife photographer of the year
 tags:
 - photo

@@ -1,4 +1,5 @@
 ---
+date: 2013-02-20
 title: getting close in street photography
 tags:
 - photo

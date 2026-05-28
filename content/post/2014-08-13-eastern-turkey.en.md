@@ -1,4 +1,5 @@
 ---
+date: 2014-08-13
 title: eastern turkey
 tags:
 - photo

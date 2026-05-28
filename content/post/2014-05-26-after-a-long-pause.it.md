@@ -1,4 +1,5 @@
 ---
+date: 2014-05-26
 title: ripresa delle trasmissioni
 tags:
 - misc
@@ -6,7 +7,7 @@ tags:
 slug: ripresa-delle-trasmissioni
 ---
 
-[*[Click here for english version.]*]({filename}2014-05-26-after-a-long-pause.md)
+[*[Click here for english version.]*](/2014-05-26-after-a-long-pause.html)
 
 
 Breve comunicazione di servizio per dire a tutti quelli che mi seguono che presto, prestissimo, riprenderanno le trasmissioni.

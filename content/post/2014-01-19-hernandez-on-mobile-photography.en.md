@@ -1,4 +1,5 @@
 ---
+date: 2014-01-19
 title: hernandez on mobile photography tools
 tags:
 - links

@@ -1,4 +1,5 @@
 ---
+date: 2014-01-15
 title: networked photography
 slug: networked-photography
 tags:
@@ -6,8 +7,6 @@ tags:
 - notes
 - links
 ---
-
-[*[Click here for italian version.]*]({filename}2014-01-15-networked-photography-it.md)
 
 
 I have always liked Craig Mod, since I read years ago his [travelogue/review of the Panasonic GF1](http://craigmod.com/journal/gf1-fieldtest/). He traveled to Himalaya, captured some great shot with this little camera, and wrote extensive and very well written thoughts about 'gear' -- linking tech talk to excellent photography and interesting, deep commentary about how it feels to use a camera to capture your emotions. So far, this has been the best review of a camera that I've ever read. And it has been that review that inspired me to abandon (although only temporarily) DSLRs and got myself that little micro 4/3 jewel that was the GF1[^nota-gf1].
@@ -67,4 +66,4 @@ I would argue that if you prefer to manipulate your photos on a small screen you
 For other interesting reactions to this piece, go to [the Online Photographer and read the comments to "Connectedness"](http://theonlinephotographer.typepad.com/the_online_photographer/2014/01/connectedness.html). The comments here are high quality stuff, written by people that do actually have something to say and not the brainless morons that post comments on youtube.
 
 
-[^nota-gf1]: I posted my first idea on the appeal of a smaller camera in ["my next camera"]({filename}2010-08-19-my-next-camera.md), then shortly after I [bought my GF1]({filename}2010-09-11-it-was-unintentional.md). Two years later, after moving back to DSLRs, I posted [a sort of review of the GF1]({filename}2012-07-31-panasonic-gf1-late-review.md).
+[^nota-gf1]: I posted my first idea on the appeal of a smaller camera in ["my next camera"](/2010-08-19-my-next-camera.html), then shortly after I [bought my GF1](/2010-09-11-it-was-unintentional.html). Two years later, after moving back to DSLRs, I posted [a sort of review of the GF1](/2012-07-31-panasonic-gf1-late-review.html).

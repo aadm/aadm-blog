@@ -1,4 +1,5 @@
 ---
+date: 2012-07-10
 title: weekly snaps 1
 tags:
 - photo

@@ -1,4 +1,5 @@
 ---
+date: 2012-06-09
 title: flowchart of bike happiness
 tags:
 - cycling
@@ -7,6 +8,6 @@ tags:
 
 This is so good it's a shame it lies forgotten in an old issue of DirtRag.
 
-![](https://pub-1628787844284ae491ce9701de3b337e.r2.dev/media/flowchart-of-bike-happiness.jpg)
+{{< figure src="media/flowchart-of-bike-happiness.jpg" >}}
 
 Source: DirtRag issue 145, october 2009.

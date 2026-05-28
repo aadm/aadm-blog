@@ -1,4 +1,5 @@
 ---
+date: 2014-08-15
 title: eastern turkey landscapes
 tags:
 - photo

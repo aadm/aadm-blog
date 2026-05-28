@@ -23,9 +23,9 @@ E non ci vuole una super bici né [Danny Hart](http://youtu.be/EqYgAX6D43Q); non
 
 Aspirare a questo:
 
-![Andrew Shandro smiling 1](https://pub-1628787844284ae491ce9701de3b337e.r2.dev/media/the-collective-shandro-smiling-1.jpg)
+{{< figure src="media/the-collective-shandro-smiling-1.jpg" alt="Andrew Shandro smiling 1" >}}
 
-![Andrew Shandro smiling 2](https://pub-1628787844284ae491ce9701de3b337e.r2.dev/media/the-collective-shandro-smiling-2.jpg)
+{{< figure src="media/the-collective-shandro-smiling-2.jpg" alt="Andrew Shandro smiling 2" >}}
 
 
 

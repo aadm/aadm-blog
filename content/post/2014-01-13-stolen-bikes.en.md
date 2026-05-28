@@ -1,4 +1,5 @@
 ---
+date: 2014-01-13
 title: stolen bikes and new bike
 tags:
 - photo

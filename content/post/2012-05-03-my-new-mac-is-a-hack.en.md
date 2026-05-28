@@ -1,4 +1,5 @@
 ---
+date: 2012-05-03
 title: my new mac is a hack
 tags:
 - computer

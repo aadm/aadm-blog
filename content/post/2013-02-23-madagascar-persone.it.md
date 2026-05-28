@@ -1,4 +1,5 @@
 ---
+date: 2013-02-23
 title: madagascar/persone
 tags:
 - photo

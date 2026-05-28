@@ -1,4 +1,5 @@
 ---
+date: 2014-01-15
 title: networked photography (italian)
 slug: networked-photography-it
 tags:
@@ -6,8 +7,6 @@ tags:
 - notes
 - links
 ---
-
-[*[Click here for english version.]*]({filename}2014-01-15-networked-photography.md)
 
 
 Di Craig Mod mi ricordo la recensione della GF1 (trekking in himalaya, fotografie molto belle scattate con quella che all'epoca era un piccolo gioiello che poi mi convinse ad andare mirrorless e abbandonare -- anche se solo temporaneamente -- le reflex).
@@ -26,7 +25,4 @@ Today, it turns out, it’s whatever can’t be networked that becomes less impo
 
 A parte che uno che non vede la differenza tra le foto scattate con un iphone e quelle fatte con una macchina seria, mi fa dubitare sulle sue capacità di giudizio; cioè chiaro che se te le guardi su un telefonino lo so benissimo che è difficile apprezzare le qualità di una foto scattate con una D800, ma è lo schermo del telefonino il mezzo principale per gustarsi certe cose? Non credo che un regista tipo Scorsese o Coppola facciano i loro film con l'idea che poi questi film vengano visti sugli schermini da 5".
 
-&nbsp;
-&nbsp;
-
-_NOTA: la versione [inglese]({filename}2014-01-15-networked-photography.md) è più lunga e articolata di questa in italiano. Non ho (ancora) trovato il tempo di sincronizzare le due._
+_NOTA: la versione inglese è più lunga e articolata di questa in italiano. Non ho (ancora) trovato il tempo di sincronizzare le due._

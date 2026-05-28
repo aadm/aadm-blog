@@ -6,7 +6,7 @@ tags:
 - photo
 ---
 
-![Idroscalo e Grigne](https://pub-1628787844284ae491ce9701de3b337e.r2.dev/media/idroscalo-grigne-sanmarco.jpg)
+{{< figure src="media/idroscalo-grigne-sanmarco.jpg" alt="Idroscalo e Grigne" >}}
 
 Training with my fixie at the Idroscalo. In the foreground, my red San Marco
 Concor; back there, the mountains that you rarely see from this very polluted

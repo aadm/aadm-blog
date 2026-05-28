@@ -1,4 +1,5 @@
 ---
+date: 2014-10-27
 title: still finding true gems online
 tags:
 - photo

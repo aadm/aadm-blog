@@ -10,13 +10,16 @@
 
         <div class="posts-list">
           {{ $mainSections := default (slice "post" "posts") site.Params.mainSections }}
-          {{ $allPosts := where (where .Site.Pages "Kind" "page") "Type" "in" $mainSections }}
-          {{ $pag := .Paginate ($allPosts.ByDate.Reverse) }}
-          {{ range $pag.Pages }}
+          {{ $allPosts := slice }}
+          {{ range hugo.Sites }}
+            {{ $allPosts = $allPosts | append (where (where .RegularPages "Type" "in" $mainSections) "Params.hidden" "!=" true) }}
+          {{ end }}
+          {{ $allPosts = sort $allPosts "Date" "desc" }}
+          {{ $paginator := .Paginate $allPosts }}
+          {{ range $paginator.Pages }}
             {{ partial "post_preview" . }}
           {{ end }}
         </div>
-
         {{ partial "paginator.html" . }}
       </div>
     </div>

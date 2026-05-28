@@ -1,4 +1,5 @@
 ---
+date: 2008-03-21
 title: san genesio classic trail the video
 tags:
 - cycling

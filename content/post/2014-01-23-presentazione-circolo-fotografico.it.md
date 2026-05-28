@@ -1,4 +1,5 @@
 ---
+date: 2014-01-23
 title: presentazione circolo fotografico
 tags:
 - photo

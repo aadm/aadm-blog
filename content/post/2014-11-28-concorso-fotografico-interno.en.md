@@ -1,4 +1,5 @@
 ---
+date: 2014-11-28
 title: concorso fotografico interno 2013-2014
 tags:
 - photo

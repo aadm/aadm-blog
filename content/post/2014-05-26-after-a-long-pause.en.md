@@ -1,4 +1,5 @@
 ---
+date: 2014-05-26
 title: after a long pause
 tags:
 - misc
@@ -6,7 +7,7 @@ tags:
 slug: after-a-long-pause
 ---
 
-[*[Click here for italian version.]*]({filename}2014-05-26-after-a-long-pause-it.md)
+[*[Click here for italian version.]*](/2014-05-26-after-a-long-pause-it.html)
 
 
 This is a short post just to let the readers know that I am ready to be back on track with some brand new content -- and apologies for not being very active these past few months here or on my other channels like [twitter](http://twitter.com/aadmtwi) or [Google+](http://plus.google.com/+AlessandroAmatodelMonte/).

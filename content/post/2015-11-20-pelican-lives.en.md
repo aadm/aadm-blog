@@ -5,7 +5,7 @@ tags:
 - tech
 ---
 
-Well it seems I have successfully ported my blog to [Pelican](http://blog.getpelican.com/). After hacking my way through jekyll [to make the site look like I wanted it to look]({filename}2015-11-12-last-iteration.md), I had the irresistible urge to try out Pelican.
+Well it seems I have successfully ported my blog to [Pelican](http://blog.getpelican.com/). After hacking my way through jekyll [to make the site look like I wanted it to look](/2015-11-12-last-iteration.html), I had the irresistible urge to try out Pelican.
 
 And I liked it so much it seemed logical to spend a few more sleepless nights to make it work. Honestly though, that was easier than Jekyll; not sure this is due to the familiarity I have with Python, but it's probably more to do with approaching the whole thing more organically, without switching this on and that off and see what's the results.
 

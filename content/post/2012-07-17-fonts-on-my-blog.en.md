@@ -1,4 +1,5 @@
 ---
+date: 2012-07-17
 title: fonts on my blog
 tags:
 - tech
@@ -29,23 +30,23 @@ For the headings, as of today, Averia Sans Libre won.
 
 I started with a very simple combination of Helvetica Neue and Optima:
 
-![](https://pub-1628787844284ae491ce9701de3b337e.r2.dev/media/blog-style-0-mac.png)
+{{< figure src="media/blog-style-0-mac.png" >}}
 
 Which looked terrible on a PC though as I was using fonts that were specific to Macs:
 
-![](https://pub-1628787844284ae491ce9701de3b337e.r2.dev/media/blog-style-0-pc.png)
+{{< figure src="media/blog-style-0-pc.png" >}}
 
 Then I tried Quicksand which I liked for the headings, together with a old-fashion Cardo:
 
-![](https://pub-1628787844284ae491ce9701de3b337e.r2.dev/media/blog-style-1-mac.png)
+{{< figure src="media/blog-style-1-mac.png" >}}
 
 Finally I settled on Averia Sans Libre and Quattrocento Sans, plus Cousine as a fixed-width font for `code paragraphs`:
 
-![](https://pub-1628787844284ae491ce9701de3b337e.r2.dev/media/blog-style-2-mac.png)
+{{< figure src="media/blog-style-2-mac.png" >}}
 
 And now the site looks (almost) the same also on PC running Windows:
 
-![](https://pub-1628787844284ae491ce9701de3b337e.r2.dev/media/blog-style-2-pc.png)
+{{< figure src="media/blog-style-2-pc.png" >}}
 
 ##update August 2012
 

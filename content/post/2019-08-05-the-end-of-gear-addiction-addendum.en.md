@@ -8,7 +8,7 @@ tags:
 series: Gear Reviews
 ---
 
-I promised to update my notes on what [I defined "my final camera"]({filename}/2018-03-05-the-end-of-gear-addiction.md).
+I promised to update my notes on what [I defined "my final camera"](/2018-03-05-the-end-of-gear-addiction.html).
 
 So that's what I want to do in this very short post.
 

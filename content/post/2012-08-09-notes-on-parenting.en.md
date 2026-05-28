@@ -1,4 +1,5 @@
 ---
+date: 2012-08-09
 title: notes on parenting
 tags:
 - quote

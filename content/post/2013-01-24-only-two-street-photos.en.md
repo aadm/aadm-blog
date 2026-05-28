@@ -1,4 +1,5 @@
 ---
+date: 2013-01-24
 title: only two street photos
 tags:
 - photo

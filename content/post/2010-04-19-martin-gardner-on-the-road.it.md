@@ -1,4 +1,5 @@
 ---
+date: 2010-04-19
 title: martin gardner on the road
 tags:
 - notes

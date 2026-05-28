@@ -1,4 +1,5 @@
 ---
+date: 2013-01-21
 title: direttamente dal cassetto
 tags:
 - misc

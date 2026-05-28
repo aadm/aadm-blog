@@ -1,4 +1,5 @@
 ---
+date: 2012-11-07
 title: dogs chasing fake rabbits
 tags:
 - misc

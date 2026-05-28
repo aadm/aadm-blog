@@ -6,7 +6,7 @@ tags:
 slug: nicolai-mojo
 ---
 
-Since I last wrote [about (stolen) bikes]({filename}2014-01-13-stolen-bikes.md) my friend Phil (from T-P 2010) convinced me to get a bike which I would have never thought of buying; a short-travel, full-suspension Norco with 29" wheels. The price was very reasonable too, which I think was essential for my decision.
+Since I last wrote [about (stolen) bikes](/2014-01-13-stolen-bikes.html) my friend Phil (from T-P 2010) convinced me to get a bike which I would have never thought of buying; a short-travel, full-suspension Norco with 29" wheels. The price was very reasonable too, which I think was essential for my decision.
 
 
 <figure>

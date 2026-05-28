@@ -1,4 +1,5 @@
 ---
+date: 2012-06-02
 title: these tech writers (invettiva)
 tags:
 - notes

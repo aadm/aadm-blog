@@ -191,7 +191,7 @@ Altri punti essenziali di cui discutere, a cui per adesso accenno solo e in un s
 
 Alla critica di Ciaccia rispondo non con la mia esperienza personale che vale poco; sicuramente Ciaccia sarà più bravo di me alla guida, più sgamato nel raggiungere angoli di piega elevati. Mi limito a mostrare questa immagine:
 
-![Vitto con Guzzi V7 stock in pista](https://pub-1628787844284ae491ce9701de3b337e.r2.dev/media/Guareschi_Guzzi_V7_stock_circuito.jpg)
+{{< figure src="media/Guareschi_Guzzi_V7_stock_circuito.jpg" alt="Vitto con Guzzi V7 stock in pista" >}}
 
 Vittoriano Guareschi con la "mia" V7 in pista (cioè a dire il vero sarebbe la *sua* ma intendo *mia* perché è stata proprio quella che io ho provato a Ottobre scorso). Notare le pedane, sono quelle di serie. Il commento che si leggeva a margine di questa fotografia, prelevata dalla loro pagina Facebook, è che hanno limato tutte le pedane. In pista però, andando "forte" (e quanto un ex campione italiano Supersport nonché collaudatore Ducati Motogp dice che va forte, ci credo).
 

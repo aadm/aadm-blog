@@ -1,4 +1,5 @@
 ---
+date: 2012-07-12
 title: moving to github
 tags:
 - tech
@@ -50,6 +51,6 @@ I was trying to get the same experience when viewing the blog on Mac and PCs, bu
 
 Incidentally, I think the best looks that I've ever got was this one on my Wordpress blog:
 
-![](https://pub-1628787844284ae491ce9701de3b337e.r2.dev/media/aadm_wordpress_blog_heading.png)
+{{< figure src="media/aadm_wordpress_blog_heading.png" >}}
 
 [^1]: read a brief history of VCS in [this chapter of the official Pro Git book](http://git-scm.com/book/en/Getting-Started-About-Version-Control).

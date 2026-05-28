@@ -1,4 +1,5 @@
 ---
+date: 2012-07-31
 title: panasonic gf1 late review
 tags:
 - photo
@@ -7,10 +8,10 @@ slug: panasonic-gf1-late-review
 series: Gear Reviews
 ---
 
-[*[Click here for italian version.]*]({filename}2012-07-31-panasonic-gf1-late-review-it.md)
+[*[Click here for italian version.]*](/2012-07-31-panasonic-gf1-late-review-it.html)
 
 
-It's been quite some time now that I have [gone back to DSLRs]({filename}2012-09-21-thoughts-on-d7000.md), but the little Panasonic GF1 is still a constant presence in my backpack. In the meantime, Panasonic has churned out countless other iterations on the same micro four/thirds concept; but to me it has somehow watered down the concept and only the latest one (GX1) seems to be the true successor of the GF1.
+It's been quite some time now that I have [gone back to DSLRs](/2012-09-21-thoughts-on-d7000.html), but the little Panasonic GF1 is still a constant presence in my backpack. In the meantime, Panasonic has churned out countless other iterations on the same micro four/thirds concept; but to me it has somehow watered down the concept and only the latest one (GX1) seems to be the true successor of the GF1.
 
 I think it's only appropriate to post now a few words on my GF1; I know, it is indeed a very late review[^nota-fuori-tempo] but it could be of some interest to cheapskates that are looking for a nice and little second-hand camera (or maybe convince those of you affected by GAS[^gas] that the GF1 is still "good enough")
 
@@ -24,7 +25,7 @@ I think it's only appropriate to post now a few words on my GF1; I know, it is i
 
 It is true what everybody said back when the GF1 came out; this is indeed a camera that puts the fun back into photography. Small enough to carry it everywhere on my bike rides, squeezed in my backpack between a sandwich, a sweaty t-shirt and a spare tube. And with plenty of photographic power to shame most other DSLRs.
 
-In august 2010 I wrote a short post titled ["my next camera"]({filename}2010-08-19-my-next-camera.md); the month after I happened to be in Livigno and [by pure chance I bought the GF1]({filename}2010-09-11-it-was-unintentional.md).
+In august 2010 I wrote a short post titled ["my next camera"](/2010-08-19-my-next-camera.html); the month after I happened to be in Livigno and [by pure chance I bought the GF1](/2010-09-11-it-was-unintentional.html).
 
 <figure>
 <a href="https://www.flickr.com/photos/aadm/5401364927" title="2010-10-17_1000664.jpg"><img src="https://farm6.staticflickr.com/5259/5401364927_7a9ca37738_b.jpg" width="600" height="800"></a>

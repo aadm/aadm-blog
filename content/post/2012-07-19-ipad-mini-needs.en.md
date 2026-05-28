@@ -1,4 +1,5 @@
 ---
+date: 2012-07-19
 title: ipad mini needs
 tags:
 - computer

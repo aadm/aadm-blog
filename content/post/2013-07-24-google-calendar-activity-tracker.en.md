@@ -1,4 +1,5 @@
 ---
+date: 2013-07-24
 title: google calendar activity tracker
 tags:
 - tech
@@ -16,13 +17,13 @@ Basically I enter in my calendar an event that begins with "B" for biking, "S" f
 
 These are two examples of the yearly reports:
 
-![sport calendar 2010 example](https://pub-1628787844284ae491ce9701de3b337e.r2.dev/media/sport_gcal_2010.png)
+{{< figure src="media/sport_gcal_2010.png" alt="sport calendar 2010 example" >}}
 
-![sport calendar 2012 example](https://pub-1628787844284ae491ce9701de3b337e.r2.dev/media/sport_gcal_2012.png)
+{{< figure src="media/sport_gcal_2012.png" alt="sport calendar 2012 example" >}}
 
 And this is what a typical month looks like in my Google Calendar (there is some differences in the codes that I use because for example I enter "C" for _corsa_, which is the italian for running; likewise I have two separate categories for biking, "B" for road biking and "MTB" for mountain biking; in the script however I have simplified the categories and only included one). You can also notice how I write additional info like duration and length whenever possible; someday I'll get around to do a Python script also to collect and make stats on this information.
 
-![google calendar example](https://pub-1628787844284ae491ce9701de3b337e.r2.dev/media/google_calendar_esempio.png)
+{{< figure src="media/google_calendar_esempio.png" alt="google calendar example" >}}
 
 
 [^nota-calendar-id]: First you have to get the calendar ID. If you go into your calendar and click on the down arrow icon next to the name you will see an option for Calendar Settings. Select that menu item. Near the bottom you will see Calendar Address. It will take a moment to find the Calendar ID and it will look something like `o4g3921hdiaq5p8kdat2l4vgis@group.calendar.google.com`. (from <http://stackoverflow.com/questions/555468/how-do-i-insert-into-non-default-google-calendar-using-zend-php>).

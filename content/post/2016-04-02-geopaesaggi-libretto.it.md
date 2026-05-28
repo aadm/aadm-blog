@@ -6,7 +6,7 @@ tags:
 - photo
 ---
 
-[*[Click here for english version.]*]({filename}2016-04-02-geopaesaggi-libretto.md)
+[*[Click here for english version.]*](/2016-04-02-geopaesaggi-libretto.html)
 
 
 Ho conservato questo quadernino giallo per non so quanto tempo. E' il classico quadernino da geologo di campagna, con pagine robuste e resistenti all'acqua.

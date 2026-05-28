@@ -6,7 +6,7 @@ tags:
 - photo
 ---
 
-[*[Click here for italian version.]*]({filename}2016-04-02-geopaesaggi-libretto-it.md)
+[*[Click here for italian version.]*](/2016-04-02-geopaesaggi-libretto-it.html)
 
 
 I have kept this yellow notepad for I don't know how long.

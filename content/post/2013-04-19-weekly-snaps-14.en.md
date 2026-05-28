@@ -1,4 +1,5 @@
 ---
+date: 2013-04-19
 title: weekly snaps 14 / san siro
 tags:
 - photo

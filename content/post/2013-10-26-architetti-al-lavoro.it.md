@@ -1,4 +1,5 @@
 ---
+date: 2013-10-26
 title: architetti al lavoro
 tags:
 - photo

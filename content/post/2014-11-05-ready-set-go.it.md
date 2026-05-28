@@ -1,4 +1,5 @@
 ---
+date: 2014-11-05
 title: ready, set, go!
 tags:
 - photo

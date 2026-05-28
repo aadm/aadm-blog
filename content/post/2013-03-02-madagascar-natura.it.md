@@ -1,4 +1,5 @@
 ---
+date: 2013-03-02
 title: madagascar/natura
 tags:
 - photo

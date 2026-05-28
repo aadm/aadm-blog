@@ -1,4 +1,5 @@
 ---
+date: 2012-09-21
 title: xkcd click and drag wallpapers
 tags:
 - misc

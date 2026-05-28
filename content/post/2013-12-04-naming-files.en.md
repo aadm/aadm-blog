@@ -1,4 +1,5 @@
 ---
+date: 2013-12-04
 title: file naming
 tags:
 - photo

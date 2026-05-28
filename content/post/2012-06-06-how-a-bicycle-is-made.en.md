@@ -1,4 +1,5 @@
 ---
+date: 2012-06-06
 title: how a bicycle is made
 tags:
 - cycling

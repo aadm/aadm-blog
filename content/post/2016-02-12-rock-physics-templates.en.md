@@ -7,7 +7,7 @@ tags:
 - geoscience
 ---
 
-Yesterday I started to write a little background story to introduce a post on how I use Python and how fun and creative that is. However, the "little background story" started to grow and became [something else entirely]({filename}/2016-02-11-geoscience-and-python.md), so I decided to cut off the science part and leave it for this post here.
+Yesterday I started to write a little background story to introduce a post on how I use Python and how fun and creative that is. However, the "little background story" started to grow and became [something else entirely](/2016-02-11-geoscience-and-python.html), so I decided to cut off the science part and leave it for this post here.
 
 So here we are: this post is just a big fat link to [one of my Jupyter notebooks](http://nbviewer.ipython.org/github/aadm/geophysical_notes/blob/master/rock_physics_modeling.ipynb) that shows how to code rock physics models from published equations, build a rock physics template and use it in conjunction with real data (plus, how to make it interactive through widgets, but to see that you need to download the notebook on your computer, run it locally and basically you need to know what you're doing).
 

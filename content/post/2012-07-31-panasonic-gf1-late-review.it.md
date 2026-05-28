@@ -1,4 +1,5 @@
 ---
+date: 2012-07-31
 title: panasonic GF1 recensione fuori tempo
 tags:
 - photo
@@ -7,7 +8,7 @@ slug: panasonic-gf1-late-review-it
 series: Gear Reviews
 ---
 
-[*[Click here for italian version.]*]({filename}2012-07-31-panasonic-gf1-late-review.md)
+[*[Click here for italian version.]*](/2012-07-31-panasonic-gf1-late-review.html)
 
 È da quasi un anno che sono tornato al mondo reflex con una Nikon D7000, ma la piccola Panasonic GF1 è ancora una presenza costante nel mio zaino. Nel frattempo sono uscite altre cento iterazioni della Panasonic sul tema mirrorless / micro quattroterzi ma solo l'ultima (GX1) mi pare la vera evoluzione della GF1[^nota-gx1].
 
@@ -24,7 +25,7 @@ Pubblico quindi solo ora, fuori tempo massimo[^nota-fuori-tempo], alcune impress
 
 Proprio vero quello che si diceva in giro quando uscì la GF1; è una macchina che ti fa tornare il divertimento nella fotografia. Abbastanza piccola da potertela portare dietro anche nelle mie gite in bicicletta, schiacciata nel minizaino tra un panino, una maglia sudata e una camera d'aria di scorta. E con tutta la potenza di una reflex a tua disposizione.
 
-Ad agosto del 2010 scrissi un breve post intitolato ["my next camera"]({filename}2010-08-19-my-next-camera.md); neanche un mese dopo mi trovavo a Livigno e per puro caso trovai [un'offerta imperdibile per portarmi a casa la GF1.]({filename}2010-09-11-it-was-unintentional.md).
+Ad agosto del 2010 scrissi un breve post intitolato ["my next camera"](/2010-08-19-my-next-camera.html); neanche un mese dopo mi trovavo a Livigno e per puro caso trovai [un'offerta imperdibile per portarmi a casa la GF1.](/2010-09-11-it-was-unintentional.html).
 
 
 <figure>

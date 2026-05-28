@@ -1,4 +1,5 @@
 ---
+date: 2012-12-21
 title: weekly snaps 12
 tags:
 - photo

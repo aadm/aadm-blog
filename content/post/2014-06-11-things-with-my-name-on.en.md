@@ -1,4 +1,5 @@
 ---
+date: 2014-06-11
 title: couple of things with my name on
 tags:
 - photo

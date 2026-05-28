@@ -10,7 +10,7 @@ Obviously I remember quite clearly this photo and the entire [NYT photo essay on
 . I remember it because it also came up on [TOP along with a pretty much sterile discussion](http://theonlinephotographer.typepad.com/the_online_photographer/2016/03/what-should-a-color-photo-look-like.html) about how truthful or not were the color rendition in these photographs:
 
 <figure>
-<img src="https://pub-1628787844284ae491ce9701de3b337e.r2.dev/media/TOP_post_2016-03-21_Cuba.png">
+{{< figure src="media/TOP_post_2016-03-21_Cuba.png" >}}
 </figure>
 
 

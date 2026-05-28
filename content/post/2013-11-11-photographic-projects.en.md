@@ -1,11 +1,12 @@
 ---
+date: 2013-11-11
 title: photographic projects
 tags:
 - photo
 slug: photographic-projects
 ---
 
-[*[Click here for italian version.]*]({filename}2013-11-11-photographic-projects-it.md)
+[*[Click here for italian version.]*](/2013-11-11-photographic-projects-it.html)
 
 
 _This post was somehow inspired by a conversation I had on the [On Taking Pictures](http://5by5.tv/otp) Google+ group[^google-plus-links]. It was something I wanted to talk about for a long time._
@@ -32,11 +33,11 @@ And this is hard for me to say because I have always been (and still am) a dream
 
 So that's my long-winding introduction to two posts I have recently published here with very little details.
 
-## [architetti al lavoro]({filename}2013-10-26-architetti-al-lavoro.md)
+## [architetti al lavoro](/2013-10-26-architetti-al-lavoro.html)
 
 This is about a Saturday morning when we were discussing with my father and sister-in-law and their young assistant Francesco (all of them architects) the renewal of our future house. There was also my daughter playing with us, and a hint of the retro-chic new Nikon camera thrown in the mix.
 
-## [ultimi giochi]({filename}2013-11-06-ultimi-giochi.md)
+## [ultimi giochi](/2013-11-06-ultimi-giochi.html)
 
 With this story I wanted to remember the last day that Valentina and Gemma played together. Gemma is moving to Norway with her parents who are very good friend of ours. So I felt a little taken aback by the realization that despite the sheer joy and fun that these two babies were radiating on such a gloomy afternoon, who knows when they will play together again.
 

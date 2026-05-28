@@ -1,4 +1,5 @@
 ---
+date: 2012-07-26
 title: talking photography
 tags:
 - links

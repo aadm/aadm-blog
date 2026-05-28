@@ -1,4 +1,5 @@
 ---
+date: 2014-10-28
 title: genitori secondo cito
 tags:
 - photo

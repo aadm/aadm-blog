@@ -16,19 +16,19 @@ Li ho processati a mio piacimento, aspettandomi qualcosa di stupefacente, un po'
 
 Questi i files originali (fatto salvo per il crop 16:9):
 
-![Daniele_D850_DSC0159-original.jpg](https://pub-1628787844284ae491ce9701de3b337e.r2.dev/media/Daniele_D850_DSC0159-original.jpg)
+{{< figure src="media/Daniele_D850_DSC0159-original.jpg" >}}
 
-![Daniele_D850_DSC0036-original.jpg](https://pub-1628787844284ae491ce9701de3b337e.r2.dev/media/Daniele_D850_DSC0036-original.jpg)
+{{< figure src="media/Daniele_D850_DSC0036-original.jpg" >}}
 
 Queste le mie versioni finali:
 
-![Daniele_D850_DSC0159.jpg](https://pub-1628787844284ae491ce9701de3b337e.r2.dev/media/Daniele_D850_DSC0159.jpg)
+{{< figure src="media/Daniele_D850_DSC0159.jpg" >}}
 
-![Daniele_D850_DSC0036.jpg](https://pub-1628787844284ae491ce9701de3b337e.r2.dev/media/Daniele_D850_DSC0036.jpg)
+{{< figure src="media/Daniele_D850_DSC0036.jpg" >}}
 
 Uno zoom 1:1 su Half Dome:
 
-![Daniele_D850_DSC0036-zoom.jpg](https://pub-1628787844284ae491ce9701de3b337e.r2.dev/media/Daniele_D850_DSC0036-zoom.jpg)
+{{< figure src="media/Daniele_D850_DSC0036-zoom.jpg" >}}
 
 Cosa ci ho fatto; il solito, li ho insomma curati come avrei fatto per uno scatto qualsiasi dei miei. Il che significa quasi sempre una curva S piuttosto marcata con cui comprimo ancora di più i neri. Non vedo nitidezza o range dinamico o qualsiasi altra caratteristica che mi faccia gridare al miracolo.
 

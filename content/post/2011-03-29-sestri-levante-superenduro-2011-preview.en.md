@@ -1,4 +1,5 @@
 ---
+date: 2011-03-29
 title: sestri levante superenduro 2011 preview
 tags:
 - cycling

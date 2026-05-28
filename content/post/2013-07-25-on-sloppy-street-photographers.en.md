@@ -1,4 +1,5 @@
 ---
+date: 2013-07-25
 title: on sloppy street photographers
 tags:
 - notes

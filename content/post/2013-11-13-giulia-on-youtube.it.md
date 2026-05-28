@@ -1,4 +1,5 @@
 ---
+date: 2013-11-13
 title: giulia on youtube
 tags:
 - personal

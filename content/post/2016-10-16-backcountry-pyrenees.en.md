@@ -7,7 +7,7 @@ tags:
 - photo
 ---
 
-October 2016, I finally get the chance to ride [my Nicolai Mojo]({filename}2016-01-10-nicolai-mojo.md) in a proper setting. And what a test it has been!
+October 2016, I finally get the chance to ride [my Nicolai Mojo](/2016-01-10-nicolai-mojo.html) in a proper setting. And what a test it has been!
 
 I have been riding for seven days straight on some wonderful trails mostly around the Huesca province in Spain, south of the Pyrenees. That means mostly Ainsa, for the more knowledgeable bikers, that may remember the [2015 Enduro World Series race](http://www.pinkbike.com/news/riding-through-history-enduro-world-series-round-7-ainsa.html).
 

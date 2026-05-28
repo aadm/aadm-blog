@@ -1,4 +1,5 @@
 ---
+date: 2012-10-19
 title: fotografia estemporanea o ragionata
 tags:
 - photo

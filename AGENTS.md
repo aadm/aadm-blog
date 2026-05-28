@@ -34,19 +34,14 @@ We decided to migrate to **Hugo** + **Cloudflare Pages** + **Cloudflare R2** (fo
    - Draft post preserved (`2019-12-13-amazons3.md`)
 
 5. **Created shortcodes**:
-   - `{{< img "path" "alt" "caption" >}}` — R2-hosted images with CDN base URL configurable in `hugo.yaml`
+   - `{{< figure src="media/file.jpg" caption="..." >}}` — R2-hosted images via beautifulfigure (PhotoSwipe lightbox, CDN base prepended automatically)
+   - `figure` shortcode copied to `layouts/shortcodes/figure.html` to override Hugo's built-in and route through beautifulfigure
 
 6. **Hugo dev server** runs at `http://localhost:1313/`.
 
 ### Remaining steps
 
-- Initialize git repo in `aadm-hugo/` and push to GitHub/GitLab
-- Upload images to R2 via rclone
-- Create Cloudflare Pages project connected to the git repo
-- Set up auto-deploy on `git push`
-- (Optional) Buy custom domain via Cloudflare Registrar
-- Fix remaining `{filename}` Pelican links in 27 posts (listed below)
-- Upload remaining images (pizza, kyllesvatnet, etc.) to R2 bucket
+- Upload remaining images (pizza, kyllesvatnet, etc.) to R2 bucket at 2048px long side, 85% quality JPEG
 
 ### Cloudflare R2 setup
 
@@ -64,6 +59,10 @@ We decided to migrate to **Hugo** + **Cloudflare Pages** + **Cloudflare R2** (fo
    ```bash
    rclone copy /home/aadm/Documents/blog/content/images/ r2:aadm-images/media/ -P
    ```
+
+   **Image sizing rule**: resize to **2048px long side, 85% quality JPEG** before uploading.
+   Hugo does not resize CDN-hosted images. The blog column is ~900px wide; 2048px gives 2x
+   retina headroom and is comfortable for lightbox full-screen viewing.
 
 5. **Update `cdn_base`** in `hugo.yaml:30` with the Public Bucket URL from step 1.
 
@@ -97,6 +96,29 @@ rclone copy /path/to/images/ r2:aadm-images/media/ -P
 # See Hugo after edits
 hugo server
 ```
+
+### Image shortcodes
+
+Use `{{< figure >}}` for all images in posts. It routes through beautifulhugo's `beautifulfigure`
+shortcode (PhotoSwipe lightbox) and prepends `cdn_base` from `hugo.yaml` automatically.
+
+```markdown
+{{< figure src="media/file.jpg" caption="optional caption" >}}
+```
+
+For hi-res lightbox with a separate full-res file:
+
+```markdown
+{{< figure src="media/file-2048.jpg" link="media/file-fullres.jpg" caption="..." >}}
+```
+
+The `img` shortcode (old custom shortcode from `aadm-theme`) is no longer used. All existing
+`{{< img >}}` calls have been converted to `{{< figure >}}`.
+
+**Key files**:
+- `layouts/shortcodes/figure.html` — overrides Hugo's built-in figure, routes to beautifulfigure
+- `layouts/shortcodes/beautifulfigure.html` — delegates to partial
+- `layouts/partials/shortcodes/beautifulfigure.html` — prepends `cdn_base` to src; also suppresses page-relative path fallback
 
 ### Multilingual notes
 
@@ -157,13 +179,58 @@ This restores Hugo's default: English homepage shows only `.md` posts, Italian h
 
 All changes are in **site directory** (`layouts/`, `i18n/`), **not** in `themes/beautifulhugo/`. Hugo's template lookup order gives priority to site-level files, so the theme directory itself is untouched.
 
-| Site file                           | What it does                               |
-|-------------------------------------|--------------------------------------------|
-| `layouts/index.html`                | Homepage: shows all posts across languages |
-| `layouts/partials/header.html`      | custom homepage header                     |
-| `layouts/partials/footer.html`      | Copyright with `now.Year`                  |
-| `layouts/partials/head_custom.html` | CSS overrides (spacing, navbar clearance)  |
-| `i18n/it.yaml`                      | English UI labels even in Italian mode     |_
+| Site file                           | What it does                                                          |
+|-------------------------------------|-----------------------------------------------------------------------|
+| `layouts/index.html`                | Homepage: all posts across languages, paginated via `hugo.Sites`      |
+| `layouts/_default/archive.html`     | Archive: flat list with year headings + filter buttons, all languages |
+| `layouts/_default/terms.html`       | Tags: flat list with tag headings + filter pills, all languages       |
+| `layouts/partials/nav.html`         | TOC button hidden on homepage; language switcher only on `.IsPage`    |
+| `layouts/partials/header.html`      | Post page header: title + post-meta in `<p class="post-meta">`        |
+| `layouts/partials/footer.html`      | Copyright with `now.Year`                                             |
+| `layouts/partials/head_custom.html` | CSS overrides (fonts, spacing, nav, links)                            |
+| `i18n/it.yaml`                      | English UI labels even in Italian mode                                |
+
+### Custom styling (`layouts/partials/head_custom.html`)
+
+**To change fonts**, edit the Google Fonts URLs at lines 1-3 and the corresponding `font-family` rules.
+
+- **Body font**: PT Sans weight 400, 18px
+- **Headings (h1-h6)**: Lora italic bold
+- **Post entry text** (`.post-preview .post-entry`): `font-family: inherit` (PT Sans)
+- **Post meta** (`.post-preview .post-meta`, `.post-heading .post-meta`): PT Sans Narrow
+- **Blog tags inline** (`.blog-tags`): PT Sans Narrow
+- **Navbar links**: PT Sans Narrow, text-transform lowercase, font-size 20px
+- **Content links** (`.blog-post a`, `.post-entry a`): no underline, `border-bottom: 1px dotted`, pale yellow background on hover
+- **Post title on individual page** (`.intro-header .post-heading h1`): 30px (36px desktop), color #404040
+- **Page/section headings** (archive, tags, about, projects): 48px (60px desktop), left-aligned, Lora italic bold — overrides theme default of 50px centered
+- **Intro-header margin**: 90px (105px desktop) to clear fixed navbar
+- **Container padding**: 70px top; 20px when preceded by header-section
+
+Fonts loaded from Google Fonts:
+- Lora: `ital,wght@0,700;1,400;1,700`
+- PT Sans: `ital,wght@0,400;0,700;1,400;1,700`
+- PT Sans Narrow: `wght@400;700`
+
+### Tags page (`layouts/_default/terms.html`)
+
+- Tag names rendered as PT Sans bold 28px headings with post count in PT Sans Narrow 14px `#999`
+- Posts under each tag in PT Sans 18px, yellow hover, no underline — same as archive list
+- Filter pills at top (reuses `.archive-year-btn` styles) — JS show/hide by tag
+- Page title set via `content/tags/_index.md` (title: tags, lowercase)
+
+### Archive page (`layouts/_default/archive.html`)
+
+- Flat chronological list grouped by year, all languages via `hugo.Sites`
+- Year filter buttons at top, JS show/hide
+- Year headings: PT Sans bold 28px
+- Post titles: PT Sans 18px (inherited), date in `#999`
+- Page title set via `content/archive/_index.md` (title: archive, lowercase)
+
+### Projects page (`content/page/projects.md`)
+
+- Plain semantic HTML (`div.project-item` with `h4` + `p`)
+- Spacing: `margin-bottom: 1.5rem` per item, description in `#666`
+- Old Bootstrap 3 `.panel` markup removed
 
 **Updating the theme:** You can clone a fresh copy from GitHub without losing any customizations. Site-level overrides always win. Steps:
 
@@ -175,33 +242,21 @@ rm -rf themes/beautifulhugo/.git
 git add -A && git commit -m "Update beautifulhugo theme" && git push
 ```
 
-These 27 posts still contain `{filename}` references (e.g. `{filename}2012-07-31-panasonic-gf1-late-review.md`) that need to be replaced with Hugo-style permalink URLs (`/2012-07-31-panasonic-gf1-late-review.html`).
+### Interpost links
 
-- `content/post/2010-09-11-it-was-unintentional.en.md`
-- `content/post/2012-07-31-panasonic-gf1-late-review.en.md`
-- `content/post/2012-07-31-panasonic-gf1-late-review.it.md`
-- `content/post/2012-09-21-thoughts-on-d7000.en.md`
-- `content/post/2013-02-22-d600-first-impressions.en.md`
-- `content/post/2013-11-11-photographic-projects.en.md`
-- `content/post/2013-11-11-photographic-projects.it.md`
-- `content/post/2014-01-04-valentina-365.it.md`
-- `content/post/2014-01-15-networked-photography.en.md`
-- `content/post/2014-01-15-networked-photography.it.md`
-- `content/post/2014-05-26-after-a-long-pause.en.md`
-- `content/post/2014-05-26-after-a-long-pause.it.md`
-- `content/post/2015-11-20-pelican-lives.en.md`
-- `content/post/2016-01-10-nicolai-mojo.en.md`
-- `content/post/2016-02-02-a-little-camera.en.md`
-- `content/post/2016-02-12-rock-physics-templates.en.md`
-- `content/post/2016-04-02-geopaesaggi-libretto.en.md`
-- `content/post/2016-04-02-geopaesaggi-libretto.it.md`
-- `content/post/2016-10-12-fuji-me-too.en.md`
-- `content/post/2016-10-16-backcountry-pyrenees.en.md`
-- `content/post/2017-02-02-late-review-of-the-fuji-xpro1.en.md`
-- `content/post/2017-07-11-thoughts-on-photography-1.en.md`
-- `content/post/2017-10-06-bari.en.md`
-- `content/post/2017-10-06-bari.it.md`
-- `content/post/2018-03-05-the-end-of-gear-addiction.en.md`
-- `content/post/2019-08-05-aggiornamenti-guzzi-v7.it.md`
-- `content/post/2019-08-05-the-end-of-gear-addiction-addendum.en.md`
+All `{filename}` Pelican links have been converted to Hugo permalinks. The two patterns that existed:
+
+- `{filename}YYYY-MM-DD-slug.md` → `/YYYY-MM-DD-slug.html`
+- `{filename}/pages/slug.md` → `/slug/`
+
+For new posts, use absolute paths:
+
+```markdown
+[my next camera](/2010-08-19-my-next-camera.html)
+```
+
+Alternatively, use Hugo's `ref` shortcode for build-time validation of broken links:
+
+```markdown
+[my next camera]({{< ref "post/2010-08-19-my-next-camera.md" >}})
 ```

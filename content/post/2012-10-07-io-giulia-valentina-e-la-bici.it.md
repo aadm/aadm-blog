@@ -1,4 +1,5 @@
 ---
+date: 2012-10-07
 title: io giulia valentina e la bici
 tags:
 - cycling

@@ -1,4 +1,5 @@
 ---
+date: 2013-03-25
 title: street photography workshop
 tags:
 - photo

@@ -1,4 +1,5 @@
 ---
+date: 2013-02-27
 title: madagascar/luoghi
 tags:
 - photo

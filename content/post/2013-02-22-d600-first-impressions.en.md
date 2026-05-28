@@ -1,4 +1,5 @@
 ---
+date: 2013-02-22
 title: d600 first impressions
 tags:
 - photo
@@ -22,7 +23,7 @@ I like the new multi-controller, it feels more snappy and clickable than on the 
 
 I can easily wade through the very comprehensive menu system without even looking at the manual, and change the most important parameters (shooting mode, aperture, ISO, quality, etc.) without even thinking that this is a brand new camera. What's important is that when you hold the camera your fingers fall exactly where they are used to; the shutter button, the way it handles, it's all perfect.
 
-And despite my now subdued love for the [new Fuji cameras]({filename}2012-12-17-fuji-test-day.md) and their wonderful simplicity (little knobs, real aperture ring) I still feel that the shape of a larger DSLR is ergonomically perfect. The little rangefinder-style cameras on the other hand (such as the Fuji XE-1 which I have tried, and loved, and wanted to buy) they don't feel that right to me.
+And despite my now subdued love for the [new Fuji cameras](/2012-12-17-fuji-test-day.html) and their wonderful simplicity (little knobs, real aperture ring) I still feel that the shape of a larger DSLR is ergonomically perfect. The little rangefinder-style cameras on the other hand (such as the Fuji XE-1 which I have tried, and loved, and wanted to buy) they don't feel that right to me.
 
 ## lunchtime break, a few snaps later...
 
@@ -50,7 +51,7 @@ If you are really good, I mean technically good, then you will find exciting the
 
 I don't even feel like I have a gear acquisition syndrome, in fact (despite what my wife says) I am pretty balanced in my purchases and I only tend to buy new stuff once I feel like I have exhausted the possibilities that a certain piece of gear gives me[^nota-outgrow]. So yes, the D600 is surely giving me cleaner pictures at high ISO, and it has twenty-four megapixels as opposed to sixteen, increased depth-of-field control due to the larger sensor alright -- but listen to me, these things have meant very little for me when I decided to upgrade.
 
-Maybe it's only a matter of economy, that is I was able to do this with a relative modest sum, and why the hell not. Maybe it's a matter of aesthetics and nostalgia, that I liked the idea of using a 50mm and have a 50mm look, or maybe I liked the idea of looking through this larger and brighter viewfinder. Who knows, maybe I will need to *use* this camera, see what I can do with that and come back here and write my thoughts, like I did for the [Panasonic GF-1]({filename}2012-07-31-panasonic-gf1-late-review.md) and the [D7000]({filename}2012-09-21-thoughts-on-d7000.md).
+Maybe it's only a matter of economy, that is I was able to do this with a relative modest sum, and why the hell not. Maybe it's a matter of aesthetics and nostalgia, that I liked the idea of using a 50mm and have a 50mm look, or maybe I liked the idea of looking through this larger and brighter viewfinder. Who knows, maybe I will need to *use* this camera, see what I can do with that and come back here and write my thoughts, like I did for the [Panasonic GF-1](/2012-07-31-panasonic-gf1-late-review.html) and the [D7000](/2012-09-21-thoughts-on-d7000.html).
 
 <figure>
 <a href="https://www.flickr.com/photos/aadm/24484328400" title="20130222_AA00066.jpg"><img src="https://farm2.staticflickr.com/1657/24484328400_6ce8e1e485_h.jpg" width="534" height="800"></a>
@@ -77,4 +78,4 @@ Maybe it's only a matter of economy, that is I was able to do this with a relati
 
 [^nota-18mm]: Another lens that was lying unused in my father-in-law cabinet.
 
-[^nota-outgrow]: That's always been true with bikes and motorbikes, for example. I really pushed hard my Monster, CBR600, [Multistrada]({filename}2008-03-23-speedweek-2007-su-mondoducati.md) before finally ending up on the [Ducati 999]({filename}2008-10-20-999s-il-primo-giro.md) -- and [outgrew]({filename}2009-08-27-speedweek-2009.md) this one too.
+[^nota-outgrow]: That's always been true with bikes and motorbikes, for example. I really pushed hard my Monster, CBR600, [Multistrada](/2008-03-23-speedweek-2007-su-mondoducati.html) before finally ending up on the [Ducati 999](/2008-10-20-999s-il-primo-giro.html) -- and [outgrew](/2009-08-27-speedweek-2009.html) this one too.

@@ -1,4 +1,5 @@
 ---
+date: 2012-06-18
 title: hackintosh in a coma
 tags:
 - computer

@@ -1,6 +1,6 @@
 baseURL: https://aadm-blog.pages.dev/
 defaultContentLanguage: en
-title: AAdM
+title: AAdM-blog
 theme: beautifulhugo
 
 # preserve old Pelican URL structure exactly
@@ -22,7 +22,7 @@ taxonomies:
 
 params:
   author:
-    name: aadm
+    name: alessandro_adm
     github: aadm
     bluesky: aadm
   license: CC-BY-NC-ND

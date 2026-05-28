@@ -1,4 +1,5 @@
 ---
+date: 2012-06-29
 title: open mtb maps
 tags:
 - cycling

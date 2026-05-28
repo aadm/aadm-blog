@@ -1,4 +1,5 @@
 ---
+date: 2012-11-06
 title: the little ipad
 tags:
 - computer

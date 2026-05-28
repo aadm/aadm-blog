@@ -20,21 +20,21 @@ I started to play with these two shots taken in obvious places in California. I 
 These are the original files, no editing save for a 16:9 crop:
 
 
-![Daniele_D850_DSC0159-original.jpg](https://pub-1628787844284ae491ce9701de3b337e.r2.dev/media/Daniele_D850_DSC0159-original.jpg)
+{{< figure src="media/Daniele_D850_DSC0159-original.jpg" >}}
 
-![Daniele_D850_DSC0036-original.jpg](https://pub-1628787844284ae491ce9701de3b337e.r2.dev/media/Daniele_D850_DSC0036-original.jpg)
+{{< figure src="media/Daniele_D850_DSC0036-original.jpg" >}}
 
 
 And these are my processed version:
 
 
-![Daniele_D850_DSC0159.jpg](https://pub-1628787844284ae491ce9701de3b337e.r2.dev/media/Daniele_D850_DSC0159.jpg)
+{{< figure src="media/Daniele_D850_DSC0159.jpg" >}}
 
-![Daniele_D850_DSC0036.jpg](https://pub-1628787844284ae491ce9701de3b337e.r2.dev/media/Daniele_D850_DSC0036.jpg)
+{{< figure src="media/Daniele_D850_DSC0036.jpg" >}}
 
 A 1:1 zoom on Half Dome:
 
-![Daniele_D850_DSC0036-zoom.jpg](https://pub-1628787844284ae491ce9701de3b337e.r2.dev/media/Daniele_D850_DSC0036-zoom.jpg)
+{{< figure src="media/Daniele_D850_DSC0036-zoom.jpg" >}}
 
 
 So what I normally do with shots like this -- I make them even tighter in terms of dynamic range; a robust S-shaped curve, so that all darker areas go to deep black. I care less about sharpness and noise that what I used to do. I actually welcome noise now that is so organic and less digital. Do I really need a D850?

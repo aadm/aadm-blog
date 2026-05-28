@@ -1,4 +1,5 @@
 ---
+date: 2014-11-12
 title: bimba che salta
 tags:
 - photo
