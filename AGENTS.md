@@ -132,25 +132,48 @@ This restores Hugo's default: English homepage shows only `.md` posts, Italian h
 │   ├── publishconf.py
 │   ├── tasks.py
 │   └── Makefile
-└── aadm-hugo/               # New Hugo site
-    ├── content/
-    │   ├── post/            # Blog posts (275)
-    │   ├── archive/
-    │   ├── about.md
-    │   ├── projects.md
-    │   ├── 365-valentina.md
-    │   ├── northbound.md
-    │   └── un-giorno-al-lago.md
-    ├── themes/aadm-theme/   # Custom Bootstrap 5 theme
-    │   ├── layouts/         # Templates
-    │   ├── static/          # CSS, JS
-    │   └── i18n/            # Translations
-    ├── static/favicon.png
-    ├── hugo.yaml
-    ├── newpost.sh              # Helper script to create new posts
-    └── migrate.py
+├── aadm-blog/               # Hugo site (git repo, deployed on Cloudflare Pages)
+│   ├── content/
+│   │   ├── post/            # Blog posts (275)
+│   │   ├── page/            # Standalone pages (about, projects, 365-valentina, etc.)
+│   │   └── archive/         # Archive listing
+│   ├── themes/beautifulhugo/ # Theme (vendored, no .git — modifications via site dir)
+│   ├── layouts/             # Site-level overrides (take priority over theme)
+│   │   ├── index.html       # Homepage: shows all posts across languages
+│   │   └── partials/
+│   │       ├── header.html  # No big header on homepage, minimal title+meta on posts
+│   │       ├── footer.html  # Copyright with now.Year
+│   │       └── head_custom.html  # CSS overrides (spacing, navbar clearance)
+│   ├── i18n/
+│   │   └── it.yaml          # English UI labels even in Italian mode
+│   ├── static/
+│   │   └── favicon.png
+│   ├── hugo.yaml
+│   ├── newpost.sh           # Helper: creates YYYY-MM-DD-slug.lang.md
+│   └── migrate.py           # Pelican-to-Hugo migration script (one-time use)
+```
 
-### Posts with broken `{filename}` Pelican links
+### Theme modifications
+
+All changes are in **site directory** (`layouts/`, `i18n/`), **not** in `themes/beautifulhugo/`. Hugo's template lookup order gives priority to site-level files, so the theme directory itself is untouched.
+
+| Site file                           | What it does                               |
+|-------------------------------------|--------------------------------------------|
+| `layouts/index.html`                | Homepage: shows all posts across languages |
+| `layouts/partials/header.html`      | custom homepage header                     |
+| `layouts/partials/footer.html`      | Copyright with `now.Year`                  |
+| `layouts/partials/head_custom.html` | CSS overrides (spacing, navbar clearance)  |
+| `i18n/it.yaml`                      | English UI labels even in Italian mode     |_
+
+**Updating the theme:** You can clone a fresh copy from GitHub without losing any customizations. Site-level overrides always win. Steps:
+
+```bash
+rm -rf themes/beautifulhugo
+git clone https://github.com/halogenica/beautifulhugo.git themes/beautifulhugo
+# Delete the embedded .git to avoid submodule issues
+rm -rf themes/beautifulhugo/.git
+git add -A && git commit -m "Update beautifulhugo theme" && git push
+```
 
 These 27 posts still contain `{filename}` references (e.g. `{filename}2012-07-31-panasonic-gf1-late-review.md`) that need to be replaced with Hugo-style permalink URLs (`/2012-07-31-panasonic-gf1-late-review.html`).
 
