@@ -5,3 +5,4 @@ resources/
 *.swp
 *.swo
 *~
+static/media/

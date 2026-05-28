@@ -265,6 +265,26 @@
     margin: 0;
     color: #666;
   }
+  /* beautifulfigure: suppress yellow hover on image links */
+  .aadm-figure a:hover,
+  .aadm-figure a:focus {
+    background: none;
+  }
+  .fancy-figure figcaption,
+  .gallery figcaption {
+    position: static;
+    background: none;
+    color: #666;
+    text-align: left;
+    font-size: 14px;
+    font-family: 'PT Sans Narrow', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    padding: 4px 0 0;
+    opacity: 1;
+  }
+  .fancy-figure figcaption p,
+  .gallery figcaption p {
+    margin: 0;
+  }
   .post-pager li a:hover,
   .post-pager li a:focus {
     color: #404040;
