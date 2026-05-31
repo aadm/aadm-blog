@@ -10,7 +10,6 @@ tags:
 
 Leggo il nuovo numero di Motociclismo dove mettono a confronto la mia Guzzi V7 con una Royal Enfield Interceptor. Già questa cosa mi pare  impertinente. Confrontare una moto italiana con una indiana e lamentarsi che la prima costa tremila euro di più della seconda? Insomma, è un po' scontato eh. La Guzzi è tutta fatta a Mandello, ha componentistica forse datata ma di qualità (come le pinze freni Brembo); la piastra di sterzo povera? Certo, lo è, come tutte le moto che costano meno di diecimila euro ormai (vedi per confronto le recenti Ducati Scrambler). Ma su questo aspetto del costo, ci passo su; oggettivamente la V7 costa tanto per quello che è. Io personalmente non ho problemi con il prezzo di vendita perché dò importanza alla costruzione interamente in Italia, perché voglio supportare una casa storica italiana, perché non faccio la valutazione del rapporto prezzo/potenza quando compro una moto.
 
-
 Ma in questa prova c'è un *secondo* aspetto che mi fa imbufalire; le pedane troppo basse -- addirittura paragonate a quelle di una moto cruiser, che secondo il tester impedisce di curvare e di divertirsi in piega.
 
 Leggo i dati sui due giornalisti che hanno fatto la comparativa (ma si capisce chiaramente tutto guardando le foto a corred); il primo, un metro e ottanta per novanta chili; il secondo centodiciassette chilogrammi.
@@ -20,7 +19,7 @@ Centodiciassette chili uno e più di novanta l'altro? Be' ma mi sembra scontato 
 Ho deciso quindi di scrivere la mia personalissima prova della Guzzi V7, a partire dal quel giro in Basilicata nell'estate del 2018.
 
 
-## Estate 2018
+## estate 2018
 
 La mia ultima moto è stata una Ducati 999S, la prima e unica supersportiva che ho mai avuto (prima di lei, Honda NSR 125F, Ducati Monster 900, Honda CBR600F, Ducati Multistrada 1000; al contrario di miei amici, riesco a fare la lista di tutte le moto che ho avuto in manco due righe). Ho venduto la 999S nel 2011, a un ragazzino che poi me l'ha schiantata chissà dove, il deficiente.
 
@@ -36,7 +35,7 @@ Come sempre, ragionare dalla poltrona ti porta sempre a distorcere la realtà; t
 
 E quindi questo giro in Basilicata mi ha fatto decidere che sarei tornato su una moto tutta mia, appena fossi rientrato in Italia.
 
-## Ottobre 2018
+## ottobre 2018
 
 Sono tornato da dieci giorni dalla Norvegia, dove ho vissuto per tre anni. Dopo aver provato quella KTM Adventure l'estate scorsa l'idea di comprarmi una endurona con cui godermi le strade di tutti i giorni senza troppi problemi se trovo buche o ghiaia, e magari azzardare qualche sterratona anche, che tanto in fuoristrada ormai ho dimestichezza (ma con delle leggerissime due ruote a pedali), mi è passata.
 
@@ -153,7 +152,7 @@ Dopo due giorni provo la KTM:
 *(05/10/2018, 12:23): Sono gasatissimo!!! Grazie KTM!*
 
 
-## Intermezzo: il commento di Kevin Ash
+## intermezzo: il commento di Kevin Ash
 
 Come sempre gli inglesi (quelli bravi, come l'altro mio favorito Mat Oxley) sono concisi ed efficaci nelle loro sintesi; molto più di me! Kevin Ash [così descriveva la V7](https://www.telegraph.co.uk/motoring/motorbikes/9183730/Moto-Guzzi-V7-Special-review.html):
 
@@ -162,7 +161,7 @@ Come sempre gli inglesi (quelli bravi, come l'altro mio favorito Mat Oxley) sono
 > The V-twin engine is lightweight and characterful, both big advantages over the V7's parallel-twin rivals. And so is the style: this is one of the best looking motorcycles in any class, combining neat detailing with a beautifully balanced overall look that's contemporary yet strongly linked to Seventies Guzzis.
 
 
-## Sei mesi dopo
+## sei mesi dopo
 
 Ho fatto solo 2500 km finora. Ricordo quando mi gloriavo dei ventimila km all'anno che facevo ai tempi della Monster. Non so quanto fosse davvero intelligente fare tanta strada; avrei potuto allenarmi più con la bici e migliorare la tecnica; o concentrarmi sulla pista (ma questo a posteriori penso fosse difficilmente realizzabile per i costi). O forse ho solo fatto quello che mi sentivo di fare per sentirmi realizzato. Magari un'enorme spreco di tempo, chissà. Ho ricordi frammentari di momenti di vera gioia adrenalinica; con la bici le sensazioni sono sempre state diverse, sempre condite di un senso di inferiorità strisciante perché dovunque andavo c'era sempre qualcuno più bravo di me che mi faceva sentire inadeguato.
 
@@ -191,13 +190,15 @@ Altri punti essenziali di cui discutere, a cui per adesso accenno solo e in un s
 
 Alla critica di Ciaccia rispondo non con la mia esperienza personale che vale poco; sicuramente Ciaccia sarà più bravo di me alla guida, più sgamato nel raggiungere angoli di piega elevati. Mi limito a mostrare questa immagine:
 
-{{< figure src="media/Guareschi_Guzzi_V7_stock_circuito.jpg" alt="Vitto con Guzzi V7 stock in pista" >}}
+{{< figure src="media/Guareschi_Guzzi_V7_stock_circuito.jpg" caption="Vittoriano Guareschi con Guzzi V7 stock in pista" >}}
 
 Vittoriano Guareschi con la "mia" V7 in pista (cioè a dire il vero sarebbe la *sua* ma intendo *mia* perché è stata proprio quella che io ho provato a Ottobre scorso). Notare le pedane, sono quelle di serie. Il commento che si leggeva a margine di questa fotografia, prelevata dalla loro pagina Facebook, è che hanno limato tutte le pedane. In pista però, andando "forte" (e quanto un ex campione italiano Supersport nonché collaudatore Ducati Motogp dice che va forte, ci credo).
 
 Ma quindi queste pedane sono basse o no?
 
 Ok, onestamente lo sono eh, ma dire che sono "di impaccio alla guida sportiva", assolutamente no. A patto che siate di dimensioni e peso paragonabili ai tester di Motociclismo. La cosa che più mi dà fastidio è il cavalletto invece, quello sì che tocca con facilità a terra (parlo del braccetto sporgente con cui tirarlo giù in sosta). L'avevo toccato su asfalto freddo scendendo dal passo del Penice, la prima volta che ho fatto un giro "serio" con la moto. I Guareschi mi hanno curvato un po' il braccetto ma niente, anche durante un secondo giro, sempre in situazione di piega su avvallamenti, tocca terra di nuovo. Tra un paio di settimane ho degli interventi programmati sulla mia Guzzi tra cui anche una ulteriore modifica al cavalletto discussa con Vittoriano.
+
+## bloody charming horses
 
 Come dicevo sopra, l'inglese mi piace sempre per la sua concisione. Quindi per terminare questo articolo lunghissimo, lo prolungo ancora un po' di più con un paio di frasi prese da [questa recensione di Pipeburn della V7](https://www.pipeburn.com/home/2017/09/06/pipeburn-review-moto-guzzis-2017-v7-iii-special-stone.html):
 
@@ -225,4 +226,12 @@ Però poi le chicche, quelle frasi corte ed incisive che mi restano dentro:
 
 ## nota finale
 
-Anni fa, mentre passeggiavo per Parma, mi fermai [per fotografare una vecchia V35](http://aadm-fotografia.tumblr.com/post/77947705824/guzzi-v35-sentita-prima-vista-poi-il) che un ragazzo aveva sistemato davvero bene. Non ricordo di aver pensato "prima o poi, anche io guiderò una Guzzi", ma mi è rimasto il ricordo di questa piccola e curatissima moto.
+Anni fa, mentre passeggiavo per Parma, mi fermai a fotografare una vecchia V35:
+
+{{< figure src="media/20140222_AA15159.jpg" caption="Guzzi V35, Parma" >}}
+
+L'avevo prima sentita, vista poi.
+
+Il proprietario aveva una bella faccia; giovane metalmeccanico, il codino se l'era fatto da solo, le modifiche ai carburatori pure, e questa era una motociclettina da sbraco al bar ma l'aveva portata pure sull'appennino.
+
+Non ricordo di aver pensato "prima o poi, anche io guiderò una Guzzi", ma mi è rimasto il ricordo di questa piccola e curatissima moto.

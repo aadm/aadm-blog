@@ -1,8 +1,8 @@
+*~
+.DS_Store
+.hugo_build.lock
 public/
 resources/
-.hugo_build.lock
-.DS_Store
-*.swp
-*.swo
-*~
 static/media/
+*.swo
+*.swp

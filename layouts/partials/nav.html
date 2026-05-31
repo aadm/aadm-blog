@@ -66,13 +66,13 @@
                       {{ $childName = $translated }}
                     {{ end }}
                   {{ end }}
-                  <li><a class="dropdown-item" href="{{ .URL | relLangURL }}">{{ $childName }}</a></li>
+                  <li><a class="dropdown-item" href="{{ .URL | relURL }}">{{ $childName }}</a></li>
                 {{ end }}
               </ul>
             </li>
           {{ else }}
             <li class="nav-item" >
-              <a class="nav-link" title="{{ $name }}" href="{{ .URL  | relLangURL }}">{{ $name }}</a>
+              <a class="nav-link" title="{{ $name }}" href="{{ .URL | relURL }}">{{ $name }}</a>
             </li>
           {{ end }}
         {{ end }}

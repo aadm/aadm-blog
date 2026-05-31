@@ -158,18 +158,33 @@ This restores Hugo's default: English homepage shows only `.md` posts, Italian h
 │   ├── content/
 │   │   ├── post/            # Blog posts (275)
 │   │   ├── page/            # Standalone pages (about, projects, 365-valentina, etc.)
-│   │   └── archive/         # Archive listing
+│   │   ├── archive/         # Archive listing (_index.md sets title: archive)
+│   │   └── tags/            # Tags listing (_index.md sets title: tags)
 │   ├── themes/beautifulhugo/ # Theme (vendored, no .git — modifications via site dir)
+│   ├── config/
+│   │   └── development/
+│   │       └── params.yaml  # Sets cdn_base: "" for local dev (hugo server)
 │   ├── layouts/             # Site-level overrides (take priority over theme)
 │   │   ├── index.html       # Homepage: shows all posts across languages
+│   │   ├── _default/
+│   │   │   ├── archive.html # Archive page layout
+│   │   │   └── terms.html   # Tags page layout
+│   │   ├── shortcodes/
+│   │   │   ├── figure.html       # Overrides Hugo built-in, routes to beautifulfigure
+│   │   │   ├── beautifulfigure.html
+│   │   │   └── img.html          # Legacy shortcode (kept for reference)
 │   │   └── partials/
-│   │       ├── header.html  # No big header on homepage, minimal title+meta on posts
-│   │       ├── footer.html  # Copyright with now.Year
-│   │       └── head_custom.html  # CSS overrides (spacing, navbar clearance)
+│   │       ├── nav.html          # TOC hidden on homepage; lang switcher on .IsPage only; menu uses relURL
+│   │       ├── header.html       # No big header on homepage, minimal title+meta on posts
+│   │       ├── footer.html       # Copyright with now.Year
+│   │       ├── head_custom.html  # CSS overrides (fonts, spacing, navbar, links, hover)
+│   │       └── shortcodes/
+│   │           └── beautifulfigure.html  # Prepends cdn_base; caption below image
 │   ├── i18n/
 │   │   └── it.yaml          # English UI labels even in Italian mode
 │   ├── static/
-│   │   └── favicon.png
+│   │   ├── favicon.png
+│   │   └── media/           # Local draft images (gitignored; not committed)
 │   ├── hugo.yaml
 │   ├── newpost.sh           # Helper: creates YYYY-MM-DD-slug.lang.md
 │   └── migrate.py           # Pelican-to-Hugo migration script (one-time use)
@@ -184,7 +199,7 @@ All changes are in **site directory** (`layouts/`, `i18n/`), **not** in `themes/
 | `layouts/index.html`                | Homepage: all posts across languages, paginated via `hugo.Sites`      |
 | `layouts/_default/archive.html`     | Archive: flat list with year headings + filter buttons, all languages |
 | `layouts/_default/terms.html`       | Tags: flat list with tag headings + filter pills, all languages       |
-| `layouts/partials/nav.html`         | TOC button hidden on homepage; language switcher only on `.IsPage`    |
+| `layouts/partials/nav.html`         | TOC button hidden on homepage; language switcher only on `.IsPage`; menu uses `relURL` not `relLangURL` |
 | `layouts/partials/header.html`      | Post page header: title + post-meta in `<p class="post-meta">`        |
 | `layouts/partials/footer.html`      | Copyright with `now.Year`                                             |
 | `layouts/partials/head_custom.html` | CSS overrides (fonts, spacing, nav, links)                            |
@@ -255,8 +270,37 @@ For new posts, use absolute paths:
 [my next camera](/2010-08-19-my-next-camera.html)
 ```
 
+Italian posts live under `/it/`, so links from an Italian post to another Italian post need the prefix:
+
+```markdown
+[quanto scritto qualche tempo fa](/it/2019-04-30-moto-guzzi-v7.html)
+```
+
 Alternatively, use Hugo's `ref` shortcode for build-time validation of broken links:
 
 ```markdown
 [my next camera]({{< ref "post/2010-08-19-my-next-camera.md" >}})
+```
+
+### Local image workflow
+
+During drafting/selection, place images in `static/media/` — Hugo serves them at `/media/file.jpg`,
+matching the same path used by the `{{< figure >}}` shortcode. No post content changes needed when
+you later upload to R2 and remove from `static/`.
+
+`static/media/` is in `.gitignore` so draft images are never committed.
+
+Hugo uses environment-based config to switch CDN base automatically:
+
+- **`hugo server`** (development environment) — `config/development/params.yaml` sets `cdn_base: ""`
+  so images resolve from `static/media/` locally
+- **`hugo --gc --minify`** (production environment) — `cdn_base` from `hugo.yaml` applies,
+  images served from R2
+
+To add images to R2 when done selecting:
+
+```bash
+# resize to 2048px long side, 85% quality first, then:
+rclone copy /path/to/exported/images/ r2:aadm-images/media/ -P
+# then delete from static/media/
 ```
