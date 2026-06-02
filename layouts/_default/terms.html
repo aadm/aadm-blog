@@ -1,7 +1,25 @@
 {{ define "main" }}
 
 {{ $data := .Data }}
-{{ $terms := .Data.Terms }}
+
+{{/* Collect all tags and their pages across all language sites */}}
+{{ $scratch := newScratch }}
+{{ range hugo.Sites }}
+  {{ range $slug, $weighted := .Taxonomies.tags }}
+    {{ range $weighted.Pages }}
+      {{ $scratch.Add $slug (slice .) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{/* Sorted list of all tag slugs */}}
+{{ $allSlugs := slice }}
+{{ range hugo.Sites }}
+  {{ range $slug, $weighted := .Taxonomies.tags }}
+    {{ $allSlugs = $allSlugs | append $slug }}
+  {{ end }}
+{{ end }}
+{{ $allSlugs = $allSlugs | uniq | sort }}
 
 <div class="container{{ if .Params.fullWidth }}-fluid{{ end }}" role="main">
   <div class="row">
@@ -14,38 +32,25 @@
 
       <nav class="archive-year-nav" aria-label="Filter by tag">
         <button class="archive-year-btn active" data-tag="all">all</button>
-        {{ range $key, $value := $terms.Alphabetical }}
-          <button class="archive-year-btn" data-tag="{{ $value.Name | urlize }}">{{ $value.Name }}</button>
+        {{ range $allSlugs }}
+          <button class="archive-year-btn" data-tag="{{ . }}">{{ . }}</button>
         {{ end }}
       </nav>
 
       <div class="terms-list-simple">
-        {{ range $key, $value := $terms.Alphabetical }}
-          <div class="terms-group" data-tag="{{ $value.Name | urlize }}">
+        {{ range $slug := $allSlugs }}
+          {{ $pages := $scratch.Get $slug }}
+          <div class="terms-group" data-tag="{{ $slug }}">
             <h2 class="terms-group-heading">
-              <a href="{{ with $.Site.GetPage (printf "/%s/%s" $data.Plural ($value.Name | urlize)) }}{{ .Permalink }}{{ end }}">{{ $value.Name }}</a>
-              <span class="terms-group-count">{{ $value.Count }}</span>
+              <a href="{{ with $.Site.GetPage (printf "/%s/%s" $data.Plural $slug) }}{{ .Permalink }}{{ end }}">{{ $slug }}</a>
+              <span class="terms-group-count">{{ len $pages }}</span>
             </h2>
             <ul class="terms-page-list">
-              {{ range $item := $value.Pages }}
-                <li><a href="{{ $item.Permalink }}">{{ $item.Title }}</a></li>
+              {{ range sort $pages "Date" "desc" }}
+                <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
               {{ end }}
             </ul>
           </div>
-        {{ else }}
-          {{ range .Pages }}
-            <div class="terms-group" data-tag="{{ .Title | urlize }}">
-              <h2 class="terms-group-heading">
-                <a href="{{ .Permalink }}">{{ .Title }}</a>
-                <span class="terms-group-count">{{ len .Pages }}</span>
-              </h2>
-              <ul class="terms-page-list">
-                {{ range .Pages }}
-                  <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-                {{ end }}
-              </ul>
-            </div>
-          {{ end }}
         {{ end }}
       </div>
 
