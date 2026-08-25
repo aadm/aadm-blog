@@ -1,5 +1,7 @@
 # AAdM Blog — Migration Session
 
+See `README.md` for quick reference (common commands, image workflow, deployment).
+
 ## What was done
 
 The original blog was a **Pelican** static site (Python) using the `pelican-bootstrap3` theme, deployed to AWS S3 via `make s3_upload`. It hasn't been updated since 2019.
@@ -10,7 +12,7 @@ We decided to migrate to **Hugo** + **Cloudflare Pages** + **Cloudflare R2** (fo
 
 1. **Backed up old blog** — initialized a git repo at `/home/aadm/Documents/blog` with all original Pelican content committed.
 
-2. **Installed Hugo** (v0.161.1 extended edition) at `~/.local/bin/hugo`:
+2. **Installed Hugo** (v0.162.0 extended edition) at `~/.local/bin/hugo`:
 
    ```bash
    wget https://github.com/gohugoio/hugo/releases/download/v0.162.0/hugo_0.162.0_linux-amd64.tar.gz -O /tmp/hugo.tar.gz
@@ -22,7 +24,7 @@ We decided to migrate to **Hugo** + **Cloudflare Pages** + **Cloudflare R2** (fo
 
    Alternative: install via snap for automatic updates (`sudo snap install hugo`).
 
-3. **Created new Hugo site** at `/home/aadm/Documents/aadm-hugo/` with:
+3. **Created new Hugo site** at `/home/aadm/GITHUB/aadm-blog` with:
    - `hugo.yaml` — multilingual config (Italian default, English secondary), preserved old URL structure (`/:year-:month-:day-:slug.html`), pagination, taxonomies
    - Custom theme `aadm-theme` — Bootstrap 5 with the old "readable" look (Roboto body, PT Serif headings, dark navbar, sidebar with recent posts + tags)
    - i18n translations for Italian and English (sidebar labels, nav text)
@@ -71,7 +73,7 @@ We decided to migrate to **Hugo** + **Cloudflare Pages** + **Cloudflare R2** (fo
 - **Git init & push**:
 
   ```bash
-  cd /home/aadm/Documents/aadm-hugo
+  cd /home/aadm/GITHUB/aadm-blog
   git init
   git add -A
   git commit -m "Initial commit: Hugo blog migrated from Pelican"
@@ -83,19 +85,7 @@ We decided to migrate to **Hugo** + **Cloudflare Pages** + **Cloudflare R2** (fo
 
 ### Key commands
 
-```bash
-# Preview locally
-hugo server --buildDrafts
-
-# Production build
-hugo --gc --minify
-
-# Upload images to R2
-rclone copy /path/to/images/ r2:aadm-images/media/ -P
-
-# See Hugo after edits
-hugo server
-```
+See `README.md` for the full quick reference.
 
 ### Image shortcodes
 
@@ -145,15 +135,7 @@ This restores Hugo's default: English homepage shows only `.md` posts, Italian h
 ### Directory structure
 
 ```
-/home/aadm/Documents/
-├── blog/                    # Old Pelican site (backup, git repo)
-│   ├── content/             # Original markdown posts
-│   ├── output/              # Old generated HTML (57 MB)
-│   ├── pelican-plugins/     # Git submodules
-│   ├── pelicanconf.py
-│   ├── publishconf.py
-│   ├── tasks.py
-│   └── Makefile
+/home/aadm/GITHUB/
 ├── aadm-blog/               # Hugo site (git repo, deployed on Cloudflare Pages)
 │   ├── content/
 │   │   ├── post/            # Blog posts (275)
@@ -188,6 +170,9 @@ This restores Hugo's default: English homepage shows only `.md` posts, Italian h
 │   ├── hugo.yaml
 │   ├── newpost.sh           # Helper: creates YYYY-MM-DD-slug.lang.md
 │   └── migrate.py           # Pelican-to-Hugo migration script (one-time use)
+├── blog/                    # Old Pelican site (backup, git repo)
+│   ├── content/             # Original markdown posts
+│   └── ...
 ```
 
 ### Theme modifications
