@@ -7,7 +7,7 @@ Hugo-based personal blog, migrated from Pelican. Deployed on Cloudflare Pages wi
 ### Full workflow: new post with images
 
 ```bash
-# 1. create post
+# 1. create post (as draft)
 ./newpost.sh my-new-post en
 
 # 2. drop images in static/media/
@@ -25,7 +25,7 @@ rclone copy static/media/ r2:aadm-images/media/ -P
 # 6. remove local copies (they're gitignored but save disk space)
 rm static/media/my-*.jpg
 
-# 7. publish: remove draft: true, commit, push
+# 7. publish: remove draft: true from frontmatter, commit, push
 git add -A && git commit -m "New post: my-new-post" && git push
 ```
 
@@ -36,9 +36,11 @@ git add -A && git commit -m "New post: my-new-post" && git push
 ./newpost.sh mio-post it         # Italian
 ```
 
-Creates `content/post/YYYY-MM-DD-my-post-slug.en.md` with frontmatter.
+Creates `content/post/YYYY-MM-DD-my-post-slug.en.md` with `draft: true` in frontmatter.
+Posts are stored in `content/post/` — drafts and published posts live together,
+differentiated only by the `draft` field.
 
-### Preview locally
+### Preview drafts
 
 ```bash
 hugo server --buildDrafts         # includes drafts
@@ -47,6 +49,30 @@ hugo server                       # published only
 
 Serves at `http://localhost:1313/`. Development config (`config/development/params.yaml`)
 sets `cdn_base: ""` so images resolve from `static/media/` instead of R2.
+
+### Publish a post
+
+Remove `draft: true` from frontmatter, then commit and push:
+
+```bash
+git add -A
+git commit -m "New post: my-post-slug"
+git push
+```
+
+Cloudflare Pages auto-deploys on push to `main`. Build config:
+- Framework: Hugo
+- Build command: `hugo --gc --minify`
+- Output directory: `public`
+- Environment variable: `HUGO_VERSION=0.162.0`
+
+### Import posts from another folder
+
+```bash
+cp /path/to/old-posts/*.md content/post/
+```
+
+As long as they have valid Hugo frontmatter (title, date, tags), they'll work.
 
 ### Add images to a post
 
@@ -83,22 +109,6 @@ rm static/media/my-photo.jpg
 ```bash
 hugo --gc --minify
 ```
-
-### Publish a post
-
-When ready to publish (remove `draft: true` from frontmatter), then:
-
-```bash
-git add -A
-git commit -m "New post: my-post-slug"
-git push
-```
-
-Cloudflare Pages auto-deploys on push to `main`. Build config:
-- Framework: Hugo
-- Build command: `hugo --gc --minify`
-- Output directory: `public`
-- Environment variable: `HUGO_VERSION=0.162.0`
 
 ### Sync local images from R2
 
