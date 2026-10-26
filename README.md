@@ -19,8 +19,8 @@ cp /path/to/photos/*.jpg static/media/
 # 4. preview locally
 hugo server --buildDrafts
 
-# 5. when done, upload images to R2
-rclone copy static/media/ r2:aadm-images/media/ -P
+# 5. when done, upload new images to R2 (only files not already on R2)
+./upload-images.sh
 
 # 6. remove local copies (they're gitignored but save disk space)
 rm static/media/my-*.jpg
@@ -88,6 +88,24 @@ For a hi-res lightbox with separate full-res file:
 {{< figure src="media/photo-2048.jpg" link="media/photo-fullres.jpg" caption="..." >}}
 ```
 
+### Gallery grid
+
+Wrap `{{< figure >}}` shortcodes in a paired `gallery` shortcode. Tiles are square,
+3 per row on desktop, 2 on tablet, 1 on mobile.
+
+```markdown
+{{< gallery caption-effect="fade" hover-effect="shrink" >}}
+{{< figure src="media/photo-a.jpg" >}}
+{{< figure src="media/photo-b.jpg" >}}
+{{< /gallery >}}
+```
+
+- `hover-effect`: `grow`, `zoom`, `shrink`, `slideup`, `slidedown`
+- `caption-effect`: `fade`
+
+Always use the paired form. The `dir=` form (`{{< gallery dir="..." >}}`) failed the build
+for a test post with "shortcode must be closed or self-closed". Use the paired form instead.
+
 ### Local image workflow
 
 During drafting, drop images in `static/media/` — Hugo serves them at `/media/file.jpg`.
@@ -95,13 +113,43 @@ No post content changes needed when you later upload to R2 and remove from `stat
 
 `static/media/` is gitignored (draft images never committed).
 
-### Resize and upload images to R2
+### Upload images to R2
+
+Export masters from darktable at 2048px long side, 85% quality JPEG, into `static/media/`.
+Then run:
 
 ```bash
-# resize to 2048px long side, 85% quality JPEG, then:
-rclone copy /path/to/images/ r2:aadm-images/media/ -P
-# remove from static/media/ after uploading
-rm static/media/my-photo.jpg
+./upload-images.sh --dry-run     # preview: lists files not yet on R2
+./upload-images.sh               # upload only files not yet on R2
+./upload-images.sh --derivatives # also create NAME-1200.jpg copies, then upload
+```
+
+- The default compares `static/media/` with `r2:aadm-images/media/` by filename and
+  uploads only the missing ones. Existing objects are never overwritten.
+- `--derivatives` creates `NAME-1200.jpg` (long side 1200px, quality 85, EXIF stripped)
+  for each master that lacks one. Derivatives are not used by any post yet.
+- Derivatives are off by default until the impact on page weight is measured.
+- Remove local copies afterwards if disk space matters: `rm static/media/my-photo.jpg`.
+
+### Images to check or regenerate
+
+Files in `static/media/` that do not meet the 2048px long-side rule (as of 2026-10-26).
+Portraits exported with 2048px on the short side measure 2048x3072 and must be redone
+at 1365x2048.
+
+The `piccolagorai_*` set (66 files) was re-exported on 2026-10-26 and now meets the rule.
+
+Oversized files (long side over 2048px), 7 files:
+
+- `20170303_XPR2063.jpg` (2048x3084)
+- `20171228_FUJ0031.jpg`, `20171228_FUJ0042.jpg`, `20171228_FUJ0062.jpg` (2048x3061)
+- `20171229_FUJ0188.jpg` (2047x3061), `20171229_FUJ0211.jpg` (2048x3061)
+- `usa1997_022.tif.jpg` (5450x3615, unresized)
+
+Check again with:
+
+```bash
+cd static/media && identify -format '%w %h %f\n' * | awk '{l=($1>$2)?$1:$2; if(l>2048) print}'
 ```
 
 ### Production build
@@ -120,7 +168,6 @@ rclone sync r2:aadm-images/media/ static/media/ -P
 
 ## Architecture
 
-- **Hugo** v0.162.0 (extended) at `~/.local/bin/hugo`
 - **Theme**: beautifulhugo (vendored, all customizations in site-level `layouts/` and `i18n/`)
 - **Multilingual**: English default, Italian secondary
   - `.md` = Italian, `.en.md` = English
@@ -177,3 +224,7 @@ Content (text and photographs) is licensed under [CC BY-NC 4.0](https://creative
 
 You are free to share and adapt the material for non-commercial purposes, provided
 you give appropriate credit. Commercial use requires permission.
+
+## TO-DO
+
+** draft posts only work in `content/post/`? not in `_drafts/`?

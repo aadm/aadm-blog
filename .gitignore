@@ -6,3 +6,4 @@ resources/
 static/media/
 *.swo
 *.swp
+AGENTS.md
