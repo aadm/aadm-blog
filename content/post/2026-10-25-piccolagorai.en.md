@@ -30,10 +30,10 @@ Now what is with the name of this post. It just means _small_ ("piccolo") Lagora
 
 I honestly thought it was a good start for our ride (38km, 1850m of climbing). But this is what it really was:
 
-* a relentless climb up to Passo Langhen
+* a relentless climb up to Passo Manghen
 * a very long, very fast road descent (with Paolo terrorizing the fellow bikers with motogp-style overtakes)
 * a ten minute uber technical trail, made it spicier by wobbling bags and tall seats
-* another (smaller) climb to our final destination, the Hotel SAT Lagorai
+* another (smaller) climb to our final destination, rifugio Carlettini
 
 {{<figure src="media/piccolagorai_ANLG0110.jpg" caption="A relaxed mid-morning breakfast at Caseificio di Predazzo with no idea of what's to come" >}}
 
@@ -56,7 +56,7 @@ I honestly thought it was a good start for our ride (38km, 1850m of climbing). B
 
 {{<figure src="media/piccolagorai_IMG_0707.jpg" caption="Fake smiles">}}
 
-{{<figure src="media/piccolagorai_ANLG0161.jpg" caption="Only a few more km to Hotel SAT Lagorai">}}
+{{<figure src="media/piccolagorai_ANLG0161.jpg" caption="Only a few more km to rifugio Carlettini">}}
 
 
 ## day 2
@@ -98,7 +98,11 @@ We had no idea, but [a proper gravel event](https://trentinogravel.com/) was bei
 
 {{<figure src="media/piccolagorai_ANLG0211.jpg" caption="Lago Calaita and Fairlight Secan">}}
 
+We got up to Lago Calaita after the nearly infinite climb from Canal San Bovo. Only 10km but very steep, it felt like a slog. So there is this place, an albergo/rifugio called Miralago Calaita that you can reach by car, so after being on our own for what felt like a very long ride we were catapulted back in the thick of Dolomites tourism. It was already a bit late for lunch, like early afternoon, so I ask hey, can we get anything to eat? Just some sandwiches? ("pane, formaggio e speck" that's what you would usually have"). And they said no, lunch time is over, fuck off please.
 
+So here I ask to the numerous reader of this post: don't go to Hotel Miralago Calaita. When you are in the mountains you always have respect for one another, and people managing mountain huts should be the first to show this kind of respect; they always welcome the travelers, make space to sleep if they're get late, give you something to eat. But here we were told no food here (and the nearest village along the way is San Martino di Castrozza, around 13km of trails). So fuck *you* Hotel Miralago Calaita. I won't even show a photo of the place because I'm still so mad.
+
+(I should write a google review actually and make it public)
 
 {{<figure src="media/piccolagorai_ANLG0212.jpg" caption="Onwards to the Dolomites">}}
 
