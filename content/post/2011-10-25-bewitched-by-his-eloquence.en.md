@@ -2,7 +2,7 @@
 title: bewitched by his eloquence
 date: '2011-10-25T08:21:00'
 tags:
-- quote
+ - quote
 ---
 
 "Those of us who were bewitched by his eloquence on the campaign trail chose

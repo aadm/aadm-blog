@@ -2,8 +2,8 @@
 date: 2014-10-28
 title: genitori secondo cito
 tags:
-- photo
-- notes
+ - photo
+ - notes
 ---
 
 A maggio scorso ho assistito a una presentazione di [Francesco Cito](http://www.photogalleria.it/index.php?autore=francesco%20cito), noto fotografo italiano. Tra i vari progetti mostrati c'era anche "Coma", in cui raccontava, attraverso immagini piatte e struggenti, la normalità che circonda dei ragazzi entrati in coma irreversibile.

@@ -2,7 +2,7 @@
 title: dailybooth
 date: '2010-12-21T13:00:00'
 tags:
-- quote
+ - quote
 ---
 
 "DailyBooth appeals to people who want even less friction than Twitter: Here,

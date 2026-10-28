@@ -2,7 +2,7 @@
 title: grant study
 date: '2009-06-01T22:09:00'
 tags:
-- misc
+ - misc
 ---
 
 This piece which appeared on the New York Times a few weeks ago got me hooked: ["They had it made"](http://www.nytimes.com/2009/05/12/opinion/12brooks.html), by David Brooks. This is just one click away from the full essay published on the online June issue of The Atlantic, ["What makes us happy"](http://www.theatlantic.com/doc/200906/happiness), by Joshua W. Shenk.  

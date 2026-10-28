@@ -3,7 +3,7 @@ title: that guy in cuba
 date: '2017-02-19T00:58:24'
 slug: that-guy-in-cuba
 tags:
-- photo
+ - photo
 ---
 
 Obviously I remember quite clearly this photo and the entire [NYT photo essay on Cuba](https://www.nytimes.com/interactive/2016/03/19/world/americas/cuba-on-the-edge-of-change-photo-essay.html)

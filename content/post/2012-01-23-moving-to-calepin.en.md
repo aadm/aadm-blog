@@ -2,8 +2,8 @@
 title: moving to calepin
 date: '2012-01-23'
 tags:
-- misc
-- tech
+ - misc
+ - tech
 ---
 
 I moved my tumblr log to calepin. 

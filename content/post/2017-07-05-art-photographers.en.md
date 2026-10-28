@@ -3,8 +3,8 @@ title: art photographers
 date: '2017-07-05'
 slug: art-photographers
 tags:
-- notes
-- photo
+ - notes
+ - photo
 ---
 
 The world of art photography fascinates me. I especially love those who refer to themselves as "artists", their art being typically exemplified by boring, flat, sad photos where the "artist" himself is shown with vacuous eyes, half naked, a cigarette maybe, with another sad human or animal being by his side. Or empty landscapes showing detritus and crap with not an ounce of interestingness.

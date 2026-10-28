@@ -2,7 +2,7 @@
 title: farewell facebook
 date: '2010-08-03T08:21:00'
 tags:
-- misc
+ - misc
 ---
 
 ![](http://dl.dropbox.com/u/179731/896799735.jpg)

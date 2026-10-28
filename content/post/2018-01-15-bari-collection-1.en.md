@@ -3,7 +3,7 @@ title: bari collection 1
 date: 2018-01-15
 slug: bari-collection-1-en
 tags:
-- photo
+ - photo
 ---
 
 [Another](/2017-10-06-bari.html) small collection of photos from my visit to Bari in December 2017.

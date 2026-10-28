@@ -2,7 +2,7 @@
 title: stutterer writes about stuttering
 date: '2011-02-24T21:10:00'
 tags:
-- links
+ - links
 ---
 
 A [great article on Slate.com](http://www.slate.com/articles/news_and_politics/assessment/2011/02/the_stutterer.html): taking inspiration from "King's speech", a stutterer writes about stuttering.

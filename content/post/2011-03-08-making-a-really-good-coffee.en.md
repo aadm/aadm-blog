@@ -2,8 +2,8 @@
 title: making a really good coffee
 date: '2011-03-08T23:08:00'
 tags:
-- links
-- misc
+ - links
+ - misc
 ---
 
 [Making a really good coffee]()

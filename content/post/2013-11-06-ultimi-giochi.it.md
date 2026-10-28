@@ -2,7 +2,7 @@
 date: 2013-11-06
 title: ultimi giochi
 tags:
-- photo
+ - photo
 ---
 
 A fine ottobre 2013 Filippo, Amy e Gemma lasciano l'Italia e vanno in Norvegia.

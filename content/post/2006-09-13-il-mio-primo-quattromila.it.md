@@ -2,7 +2,7 @@
 title: il mio primo quattromila
 date: '2006-09-13T07:53:00'
 tags:
-- photo
+ - photo
 ---
 
 [![Polluce_4717](http://farm1.static.flickr.com/97/241925852_b18b558fde.jpg)](http://www.flickr.com/photos/aadm/241925852/)  

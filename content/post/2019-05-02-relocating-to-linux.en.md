@@ -3,7 +3,7 @@ title: relocating to linux
 date: '2019-05-02'
 slug: relocating-to-linux
 tags:
-- computer
+ - computer
 ---
 
 *These are my notes on a radical move. The first draft was written in August 2017. I added a few notes in December 2018; then finally edited and completed the post in May 2019.*

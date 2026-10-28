@@ -2,8 +2,8 @@
 date: 2008-03-21
 title: san genesio classic trail the video
 tags:
-- cycling
-- video
+ - cycling
+ - video
 ---
 
 This is a helmet-cam video that I've recorded a few weeks ago on a trail which is known among locals to be one of the most fun and technical; it's also known as the 'classic' or '1-3-2' (because it links up sections of established -- and numbered -- hiking trails).  

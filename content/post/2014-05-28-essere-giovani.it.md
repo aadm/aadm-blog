@@ -2,9 +2,9 @@
 date: 2014-05-28
 title: essere giovani
 tags:
-- photo
-- notes
-- links
+ - photo
+ - notes
+ - links
 ---
 
 Recentemente mi sono imbattuto in due cose meravigliose. La prima, una [serie di foto scattate in Pakistan](http://lightbox.time.com/2013/12/10/muhammed-muheisen-time-picks-the-best-wire-photographer-of-2013/#1) da un giovane, pluripremiato, fotografo, [Muhammed Muheisen](http://www.worldpressphoto.org/muhammed-muheisen).

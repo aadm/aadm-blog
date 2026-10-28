@@ -2,7 +2,7 @@
 date: 2014-11-05
 title: ready, set, go!
 tags:
-- photo
+ - photo
 ---
 
 Parco della [Villa Reale di Monza](http://it.wikipedia.org/wiki/Villa_Reale_di_Monza), ottobre 2014.

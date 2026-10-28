@@ -2,7 +2,7 @@
 title: the energy of a labrador
 date: '2010-10-12T15:27:00'
 tags:
-- quote
+ - quote
 ---
 
 "It moves along at a vigorously restless pace, with the energy of a Labrador

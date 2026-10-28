@@ -2,8 +2,8 @@
 title: percorso del ticchiano
 date: '2007-09-04T08:16:00'
 tags:
-- cycling
-- photo
+ - cycling
+ - photo
 ---
 
 Domenica 2 settembre, dopo tre weekend all'insegna della discesa (Pila, Folgaria e poi Livigno), abbiamo deciso con Giulia di fare un giro pedalato nell'Appennino Parmense; il percorso è uno dei quattro presenti nel parco dei Cento Laghi. In rete si trova solo una mappa in formato jpg a questo indirizzo (con relativi profili altimetrici):  

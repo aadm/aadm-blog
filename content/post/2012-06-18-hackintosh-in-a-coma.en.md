@@ -2,8 +2,8 @@
 date: 2012-06-18
 title: hackintosh in a coma
 tags:
-- computer
-- tech
+ - computer
+ - tech
 ---
 
 I was very happy about [my hackintosh](2012-05-03-my-new-mac-is-a-hack.html), everything going smooth and easy... until it all broke down and I was left with no computer for almost a month. 

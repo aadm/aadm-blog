@@ -2,8 +2,8 @@
 date: 2012-11-06
 title: the little ipad
 tags:
-- computer
-- tech
+ - computer
+ - tech
 ---
 
 I wrote something about this little iPad [a while ago](http://aadm.github.io/2012-07-19-ipad-mini-needs.html), and on reading again that piece I find that it still represent my thoughts today. Yesterday Apple held the official announcement and among other cool things[^1] there was the iPad mini. 

@@ -2,7 +2,7 @@
 title: yoga sketches
 date: '2010-09-07T23:34:00'
 tags:
-- misc
+ - misc
 ---
 
 [![yoga---05](http://farm5.static.flickr.com/4144/4969396048_c7c43f0860.jpg)](http://www.flickr.com/photos/aadm/4969396048/)  

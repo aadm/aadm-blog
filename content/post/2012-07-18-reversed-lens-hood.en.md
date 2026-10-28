@@ -2,8 +2,8 @@
 date: 2012-07-18
 title: reversed lens hood
 tags:
-- photo
-- quote
+ - photo
+ - quote
 ---
 
 Emphasis is mine:

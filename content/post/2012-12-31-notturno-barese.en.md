@@ -2,7 +2,7 @@
 date: 2012-12-31
 title: notturno barese
 tags:
-- photo
+ - photo
 ---
 
 This is Bari by night, shot with Hueless on an iPhone 4S.

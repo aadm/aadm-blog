@@ -2,7 +2,7 @@
 title: version 10 climbing partner
 date: '2007-03-16T15:11:00'
 tags:
-- misc
+ - misc
 ---
 
 [![](http://farm1.static.flickr.com/145/422914532_1922bd7a94_m.jpg)](http://www.flickr.com/photos/aadm/422914532/)  

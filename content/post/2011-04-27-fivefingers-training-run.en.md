@@ -2,7 +2,7 @@
 title: fivefingers training run
 date: '2011-04-27T00:11:00'
 tags:
-- video
+ - video
 ---
 
 Fivefingers training run:

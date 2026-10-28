@@ -2,7 +2,7 @@
 title: la mia nuova due ruote
 date: '2007-08-21T22:46:00'
 tags:
-- cycling
+ - cycling
 ---
 
 [![Transition_PrestonFR_4006](http://farm2.static.flickr.com/1363/966409769_3d3f4477ea.jpg)](http://www.flickr.com/photos/aadm/966409769/)  

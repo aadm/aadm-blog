@@ -2,8 +2,8 @@
 title: packed onto a subway
 date: '2011-05-15T05:43:00'
 tags:
-- quote
-- cycling
+ - quote
+ - cycling
 ---
 
 "Being packed onto a subway or a bus or even stuck in your car in traffic

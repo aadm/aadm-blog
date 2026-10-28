@@ -2,7 +2,7 @@
 title: giornalismo italiano
 date: '2009-05-31T22:49:00'
 tags:
-- misc
+ - misc
 ---
 
 La differenza nel trattamento delle notizie. Ecco come il New Yorker e La Repubblica sviluppano due articoli profondamente differenti partendo dalla stessa notizia di agenzia:  

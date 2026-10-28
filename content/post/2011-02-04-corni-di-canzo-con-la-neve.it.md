@@ -2,7 +2,7 @@
 title: corni di canzo con la neve
 date: '2011-02-04T00:57:00'
 tags:
-- cycling
+ - cycling
 ---
 
 ![](http://dl.dropbox.com/u/179731/3094764241.jpg)

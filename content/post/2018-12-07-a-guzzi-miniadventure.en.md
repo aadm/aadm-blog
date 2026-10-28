@@ -3,7 +3,7 @@ title: a guzzi miniadventure
 date: '2018-12-07T23:28:23'
 slug: a-guzzi-miniadventure
 tags:
-- moto
+ - moto
 ---
 
 It's December 7th, 2018. I left home at 6:40 in the morning. Around two degrees Celsius, thick fog as it is customary around here. Three layers under the leather jacket, touring pants bought around twenty years ago that are a bit tight (I'd like to say I'm fitter than I've ever been, but the waist size doesn't seem to notice), two sachets of hand-warmers to stuff inside my winter gloves.

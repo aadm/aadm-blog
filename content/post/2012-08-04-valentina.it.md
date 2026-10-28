@@ -2,8 +2,8 @@
 date: 2012-08-04
 title: valentina
 tags:
-- personal
-- photo
+ - personal
+ - photo
 ---
 
 Fatemi lasciare un segnalibro in questa data, perché Valentina è nata oggi, 4 agosto 2012.

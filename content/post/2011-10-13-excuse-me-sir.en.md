@@ -2,8 +2,8 @@
 title: excuse me sir
 date: '2011-10-13T12:39:00'
 tags:
-- quote
-- computer
+ - quote
+ - computer
 ---
 
 "Excuse me, sir, would you mind taking our photo?"

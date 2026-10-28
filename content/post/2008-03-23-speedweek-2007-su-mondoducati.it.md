@@ -2,7 +2,7 @@
 title: speedweek 2007 su mondoducati
 date: '2008-03-23T21:45:00'
 tags:
-- moto
+ - moto
 ---
 
 ![mondoducati_blog_dsc4964.jpg](http://aadm.files.wordpress.com/2008/03/mondoducati_blog_dsc4964.jpg)  

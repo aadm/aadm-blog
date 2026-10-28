@@ -2,7 +2,7 @@
 title: silvio in america del sud
 date: '2006-09-19T23:18:00'
 tags:
-- photo
+ - photo
 ---
 
 Today a very good thing happened to me, but it was followed by a very bad thing. Anyway I won't talk about good or bad things here because they're personal.  

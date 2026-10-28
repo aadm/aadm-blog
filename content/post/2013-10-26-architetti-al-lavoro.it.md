@@ -2,7 +2,7 @@
 date: 2013-10-26
 title: architetti al lavoro
 tags:
-- photo
+ - photo
 ---
 
 _For an introduction to this little photo essay see [Photographic Projects](2013-11-11-photographic-projects.html)_.

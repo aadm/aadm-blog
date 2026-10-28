@@ -3,8 +3,8 @@ title: best sensor ever
 date: '2018-03-05T22:19:56'
 slug: best-sensor-ever
 tags:
-- photo
-- gear
+ - photo
+ - gear
 ---
 
 That's the Nikon D850 I'm referrring to. But it can also mean the Fuji medium format GFX's sensor, or any of the latest Sony full frame mirrorless.

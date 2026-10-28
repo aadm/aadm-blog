@@ -2,7 +2,7 @@
 date: 2014-01-23
 title: presentazione circolo fotografico parte 2
 tags:
-- photo
+ - photo
 ---
 
 *A settembre 2013 ho fatto una presentazione delle mie foto al circolo fotografico di San Donato. Ero parte del circolo da un anno, e mi pareva una cosa da fare sia per contribuire alla vita del circolo, sia per mettere alla prova del pubblico alcune delle mie foto. L'obiettivo era di raccontare brevemente da dove venissi, fotograficamente parlando, e mostrare alcune delle foto più care o dotate di una qualche qualità che potesse essere apprezzata anche da altri. Non ho fatto una presentazione appariscente, non c'erano effetti o transizioni speciali né una colonna sonora; ci ho parlato su, cercando di collegare con una narrativa i gruppi di foto che avevo scelto. Anche se difficile riportare per scritto quella che avevo pensato come esposizione orale, ci provo, anche per fermare nel tempo il mio primo 'outing' fotografico.*

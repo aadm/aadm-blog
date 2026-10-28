@@ -2,9 +2,9 @@
 title: italian gtd
 date: '2005-08-24T08:26:00'
 tags:
-- computer
-- misc
-- tech
+ - computer
+ - misc
+ - tech
 ---
 
 Some time ago I stumbled upon this thing, the Getting Things Done thing, aka GTD. How do you wanna call it ? A geekish obsession ? A lifestyle idea for nerds ?

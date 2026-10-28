@@ -2,9 +2,9 @@
 date: 2012-11-07
 title: dogs chasing fake rabbits
 tags:
-- misc
-- notes
-- moto
+ - misc
+ - notes
+ - moto
 ---
 
 Somewhere, behind the sad story of [Lance Armstrong and his team mates doing EPO and other shit](http://www.nytimes.com/2012/10/29/business/media/chasing-lance-armstrongs-misdeeds-from-the-sidelines.html)  to [dominate professional cycling](http://www.telegraph.co.uk/sport/othersports/cycling/lancearmstrong/9626520/How-Tour-de-Frances-recent-past-has-been-ruined-by-doping.html), lies the reason behind my personal preference of a certain kind of sport.

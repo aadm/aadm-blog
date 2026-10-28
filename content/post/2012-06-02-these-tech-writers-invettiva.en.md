@@ -2,8 +2,8 @@
 date: 2012-06-02
 title: these tech writers (invettiva)
 tags:
-- notes
-- tech
+ - notes
+ - tech
 excerpt: I used to love macstories. It's edited by a fellow italian who writes excellent
   english (unlike the rest of us), and it was a place to read reasoned commentaries
   that I enjoyed...

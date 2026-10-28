@@ -2,7 +2,7 @@
 title: alpinist chiude
 date: '2008-12-15T23:55:00'
 tags:
-- misc
+ - misc
 ---
 
 ![alpinist-26](http://aadm.files.wordpress.com/2008/12/alpinist-26.jpg)  

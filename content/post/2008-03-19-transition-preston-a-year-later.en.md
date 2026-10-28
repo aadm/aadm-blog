@@ -2,7 +2,7 @@
 title: transition preston a year later
 date: '2008-03-19T21:58:00'
 tags:
-- cycling
+ - cycling
 ---
 
 I love my Preston. Very, very happy with it, but I realize it's not the state of the art from an engineering perspective. The following post appeared a few days ago on the mtbr.com Transition forum, and I totally agree with it -- even if I'm not going to trade in my Preston anytime soon.  

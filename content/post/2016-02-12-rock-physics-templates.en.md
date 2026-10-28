@@ -3,8 +3,8 @@ title: rock physics templates
 date: '2016-02-12'
 slug: rock-physics-templates
 tags:
-- python
-- geoscience
+ - python
+ - geoscience
 ---
 
 Yesterday I started to write a little background story to introduce a post on how I use Python and how fun and creative that is. However, the "little background story" started to grow and became [something else entirely](/2016-02-11-geoscience-and-python.html), so I decided to cut off the science part and leave it for this post here.

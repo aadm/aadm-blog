@@ -2,7 +2,7 @@
 date: 2012-07-17
 title: fonts on my blog
 tags:
-- tech
+ - tech
 ---
 
 Last time [I wrote something about this blog](2012-07-12-moving-to-github.html), how I moved everything to Jekyll and modified the original themes.

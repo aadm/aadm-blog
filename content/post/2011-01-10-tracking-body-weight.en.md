@@ -2,7 +2,7 @@
 title: tracking body weight
 date: '2011-01-10T20:03:00'
 tags:
-- misc
+ - misc
 ---
 
 I discovered [this Withings wi-fi body scale](http://www.withings.com/en/bodyscale/features) after reading [this tweet by Neven Mrgan](https://twitter.com/mrgan/status/17993820817854464):

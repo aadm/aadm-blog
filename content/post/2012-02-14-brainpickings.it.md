@@ -2,9 +2,9 @@
 title: brainpickings
 date: '2012-02-14'
 tags:
-- notes
-- links
-- quote
+ - notes
+ - links
+ - quote
 ---
 
 Ho scoperto un sito fantastico, di quelli che ti fanno riscoprire quanto Internet possa ancora essere fonte di meraviglie.

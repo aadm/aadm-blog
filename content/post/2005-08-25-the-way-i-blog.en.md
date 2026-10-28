@@ -2,7 +2,7 @@
 title: the way I blog
 date: '2005-08-25T15:28:00'
 tags:
-- misc
+ - misc
 ---
 
 This is the way:

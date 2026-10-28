@@ -2,9 +2,9 @@
 date: 2014-10-27
 title: still finding true gems online
 tags:
-- photo
-- notes
-- quote
+ - photo
+ - notes
+ - quote
 ---
 
 Months ago [I asked the OTP community](https://plus.google.com/103970774611658298842/posts/FFZS29nwkHh) about their online reading habits. I mentioned my favourite blogs and briefly discussed my main concern which is: is online reading just a filler, sort of reading your twitter feed when you're bored[^nota-passive-watching-tv]?

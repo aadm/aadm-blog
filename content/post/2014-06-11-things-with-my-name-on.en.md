@@ -2,8 +2,8 @@
 date: 2014-06-11
 title: couple of things with my name on
 tags:
-- photo
-- links
+ - photo
+ - links
 ---
 
 A brief interlude to note down a couple of things.

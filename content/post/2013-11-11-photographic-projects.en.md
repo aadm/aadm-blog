@@ -2,7 +2,7 @@
 date: 2013-11-11
 title: photographic projects
 tags:
-- photo
+ - photo
 slug: photographic-projects
 ---
 

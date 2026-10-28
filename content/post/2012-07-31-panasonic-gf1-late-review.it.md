@@ -2,8 +2,8 @@
 date: 2012-07-31
 title: panasonic GF1 recensione fuori tempo
 tags:
-- photo
-- gear
+ - photo
+ - gear
 slug: panasonic-gf1-late-review-it
 series: Gear Reviews
 ---

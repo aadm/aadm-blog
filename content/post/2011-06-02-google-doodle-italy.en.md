@@ -2,7 +2,7 @@
 title: google doodle italy
 date: '2011-06-02T14:11:00'
 tags:
-- misc
+ - misc
 ---
 
 ![](http://dl.dropbox.com/u/179731/6105346731.png)

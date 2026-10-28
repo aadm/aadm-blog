@@ -2,7 +2,7 @@
 title: legendary length
 date: '2011-04-22T08:00:00'
 tags:
-- quote
+ - quote
 ---
 
 "I am known for the legendary length of my blog posts and e-mails. This stems

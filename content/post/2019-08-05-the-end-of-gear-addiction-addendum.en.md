@@ -3,8 +3,8 @@ title: the end of gear addiction (addendum)
 date: '2019-08-05'
 slug: the-end-of-gear-addiction-addendum
 tags:
-- photo
-- gear
+ - photo
+ - gear
 series: Gear Reviews
 ---
 

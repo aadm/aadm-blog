@@ -2,8 +2,8 @@
 title: obree quotes
 date: '2012-07-11T08:26:00'
 tags:
-- quote
-- cycling
+ - quote
+ - cycling
 ---
 
 A comment on Italians' ability to manage confusion:

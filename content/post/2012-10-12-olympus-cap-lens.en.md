@@ -2,9 +2,9 @@
 date: 2012-10-12
 title: olympus c(r)ap lens
 tags:
-- photo
-- gear
-- links
+ - photo
+ - gear
+ - links
 excerpt: ''
 ---
 

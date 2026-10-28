@@ -2,8 +2,8 @@
 title: an app to store my passwords
 date: '2011-02-17T21:32:00'
 tags:
-- computer
-- tech
+ - computer
+ - tech
 ---
 
 **What I was looking for: an app to store my passwords**

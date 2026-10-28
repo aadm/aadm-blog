@@ -2,7 +2,7 @@
 title: paper to draw comics
 date: '2011-05-27T12:16:00'
 tags:
-- quote
+ - quote
 ---
 
 INTERVIEWER

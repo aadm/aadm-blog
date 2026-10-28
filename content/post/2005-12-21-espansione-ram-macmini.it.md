@@ -2,7 +2,7 @@
 title: espansione ram macmini
 date: '2005-12-21T09:58:00'
 tags:
-- computer
+ - computer
 ---
 
 Metti che vuoi potenziare il tuo macmini che hai comprato con quattro soldi (G4 1.25ghz con 512Mb di ram).  

@@ -2,7 +2,7 @@
 title: seconda bici
 date: '2010-08-06T06:41:00'
 tags:
-- cycling
+ - cycling
 ---
 
 Anzi, terza, o quarta. Diciamo meglio: seconda bici _da vero offroad_, senza contare la vecchia Merlin da trail[^nota-trail].  

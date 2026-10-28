@@ -2,7 +2,7 @@
 title: pelican lives
 date: '2015-11-20T00:40:00'
 tags:
-- tech
+ - tech
 ---
 
 Well it seems I have successfully ported my blog to [Pelican](http://blog.getpelican.com/). After hacking my way through jekyll [to make the site look like I wanted it to look](/2015-11-12-last-iteration.html), I had the irresistible urge to try out Pelican.

@@ -2,8 +2,8 @@
 title: running errands
 date: '2011-10-14T00:39:00'
 tags:
-- quote
-- computer
+ - quote
+ - computer
 ---
 
 "I was out running errands today, walking through the city. I remembered, a

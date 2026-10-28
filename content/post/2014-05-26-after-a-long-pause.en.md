@@ -2,8 +2,8 @@
 date: 2014-05-26
 title: after a long pause
 tags:
-- misc
-- notes
+ - misc
+ - notes
 slug: after-a-long-pause
 ---
 

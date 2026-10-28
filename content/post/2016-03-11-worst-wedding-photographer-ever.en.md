@@ -3,7 +3,7 @@ title: worst wedding photographer ever
 date: '2016-03-11T23:12:23'
 slug: worst-wedding-photographer-ever
 tags:
-- photo
+ - photo
 ---
 
 Wedding photography is something like newborn photography; cheesy, kitsch and very very false. Obviously I'm talking about the kind of wedding and newborn photography which is most in vogue nowadays (i.e., the first hits you get when googling these keywords).

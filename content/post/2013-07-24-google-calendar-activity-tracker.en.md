@@ -2,9 +2,9 @@
 date: 2013-07-24
 title: google calendar activity tracker
 tags:
-- tech
-- cycling
-- computer
+ - tech
+ - cycling
+ - computer
 ---
 
 It's been years since I started using Google Calendar to keep track my sports activities. I guess there are countless apps to do this but all I needed is something basic that I can access from anywhere. Since I already have synced my iPhone with Google Calendar, I can basically enter data from wherever I am, even if there is no internet connection, and then have it synced back to my main repository on Google servers as soon as I'm back online.

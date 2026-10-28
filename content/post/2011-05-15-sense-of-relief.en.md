@@ -2,7 +2,7 @@
 title: sense of relief
 date: '2011-05-15T12:30:00'
 tags:
-- quote
+ - quote
 ---
 
 "I felt a sense of relief at his unshaven face and scruffy clothes. I have rarely seen a more disreputable bunch."

@@ -3,8 +3,8 @@ title: thoughts on photography 1
 date: '2017-07-11T00:12:11'
 slug: thoughts-on-photography-1
 tags:
-- photo
-- notes
+ - photo
+ - notes
 ---
 
 I think a lot about photography; usually random, incoherent things that I tend to forget (or more often, forget the point I was trying to make). This is an attempt to make some order. A second part is half-written. It may be published sooner or later.

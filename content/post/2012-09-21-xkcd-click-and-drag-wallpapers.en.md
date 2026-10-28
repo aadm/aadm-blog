@@ -2,7 +2,7 @@
 date: 2012-09-21
 title: xkcd click and drag wallpapers
 tags:
-- misc
+ - misc
 ---
 
 _[Click and Drag](http://xkcd.com/1110/)_, the amazing xkcd cartoon that went online a few days ago, was fascinating and threw me back to the worlds I used to explore when I was a kid (through videogames obviously).

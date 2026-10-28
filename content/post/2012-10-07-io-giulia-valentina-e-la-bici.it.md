@@ -2,7 +2,7 @@
 date: 2012-10-07
 title: io giulia valentina e la bici
 tags:
-- cycling
+ - cycling
 ---
 
 Qualche giorno fa Valentina ha compiuto due mesi, e oggi ha fatto la sua prima escursione in montagna.

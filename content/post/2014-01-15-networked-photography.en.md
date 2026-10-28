@@ -3,9 +3,9 @@ date: 2014-01-15
 title: networked photography
 slug: networked-photography
 tags:
-- photo
-- notes
-- links
+ - photo
+ - notes
+ - links
 ---
 
 

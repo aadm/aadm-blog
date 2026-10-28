@@ -2,7 +2,7 @@
 title: ultimo giro in bici
 date: '2011-08-23T08:23:00'
 tags:
-- cycling
+ - cycling
 ---
 
 Nel senso di ultimo nella mia attuale condizione di scapolo ! Di giri in bici

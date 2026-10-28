@@ -3,9 +3,9 @@ title: two sides of photography
 date: '2018-01-01'
 slug: two-sides-of-photography
 tags:
-- photo
-- notes
-- quote
+ - photo
+ - notes
+ - quote
 ---
 
 > Who reads poetry anyway? Only other poets.

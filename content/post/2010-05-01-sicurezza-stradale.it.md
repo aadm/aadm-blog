@@ -2,7 +2,7 @@
 title: sicurezza stradale
 date: '2010-05-01T00:17:00'
 tags:
-- cycling
+ - cycling
 ---
 
 ![](http://farm4.staticflickr.com/3135/2986287362_b3fd473139.jpg)

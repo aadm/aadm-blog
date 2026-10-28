@@ -2,7 +2,7 @@
 title: ipad and crufty interfaces
 date: '2010-04-22T09:09:00'
 tags:
-- computer
+ - computer
 ---
 
 [iPad and crufty interfaces](http://web.archive.org/web/20051107101903/http://

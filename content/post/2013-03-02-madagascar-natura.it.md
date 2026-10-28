@@ -2,7 +2,7 @@
 date: 2013-03-02
 title: madagascar/natura
 tags:
-- photo
+ - photo
 ---
 
 _Selezione di fotografie in 3 parti scattate durante il viaggio in Madagascar che io e Giulia abbiamo fatto [dopo esserci sposati](2011-08-24-giulia.html). Siamo partiti il 27 Agosto da Milano e rientrati il 17 Settembre 2011. La prima parte è dedicata alle [persone](2013-02-23-madagascar-persone.html), la seconda ai [luoghi](2013-02-27-madagascar-luoghi.html), la terza alla natura._  

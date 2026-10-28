@@ -3,8 +3,8 @@ title: late review of the fuji x-pro1
 date: '2017-02-02'
 slug: late-review-of-the-fuji-x-pro1
 tags:
-- photo
-- gear
+ - photo
+ - gear
 series: Gear Reviews
 ---
 

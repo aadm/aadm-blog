@@ -2,8 +2,8 @@
 title: amico a chi
 date: '2011-10-09T22:41:00'
 tags:
-- video
-- notes
+ - video
+ - notes
 ---
 
 Anche se non sembra, questo è il mio tributo a Steve Jobs.

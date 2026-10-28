@@ -2,7 +2,7 @@
 title: ultental ferragosto 2006
 date: '2006-08-24T08:41:00'
 tags:
-- photo
+ - photo
 ---
 
 [![](http://static.flickr.com/75/223163872_2999220f3d.jpg)](http://www.flickr.com/photos/aadm/223163872/)  

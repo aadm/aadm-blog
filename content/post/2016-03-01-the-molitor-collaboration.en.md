@@ -3,7 +3,7 @@ title: the molitor collaboration
 date: '2016-03-01T22:45:52'
 slug: the-molitor-collaboration
 tags:
-- photo
+ - photo
 ---
 
 Forget what I said in [previous posts](/2014-10-27-still-finding-true-gems-online.html). I may still have some sympathies for Laroque and Simpson and Johnston but I have reached a place where there are no more photographic heroes for me on the web.

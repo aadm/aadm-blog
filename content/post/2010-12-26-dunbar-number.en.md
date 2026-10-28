@@ -2,8 +2,8 @@
 title: dunbar number
 date: '2010-12-26T23:58:00'
 tags:
-- quote
-- links
+ - quote
+ - links
 ---
 
 [150 friends (Dunbar's number)](http://www.nytimes.com/2010/12/26/opinion/26dunbar.html)

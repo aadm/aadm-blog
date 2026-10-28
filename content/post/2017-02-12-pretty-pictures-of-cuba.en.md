@@ -3,7 +3,7 @@ title: pretty pictures of cuba
 date: '2017-02-12T21:31:10'
 slug: pretty-pictures-of-cuba
 tags:
-- photo
+ - photo
 ---
 
 Last year I went to Cuba with my wife and my daughter. Before the trip I was overwhelmed with the weight of Cuba and its iconic tropes (the cars, the beautiful people, the cigars); after the trip I became annoyed with the whole thing however, realizing that the photographic essence of Cuba is as fake as the oversaturated, foamy waters landscapes that pollute the passionate photographer visual experience these days.

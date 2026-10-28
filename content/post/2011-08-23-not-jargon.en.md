@@ -2,7 +2,7 @@
 title: not jargon
 date: '2011-08-23T00:23:00'
 tags:
-- quote
+ - quote
 ---
 
 From a review of a soft-science book appeared recently [on the New York Times](http://www.nytimes.com/2011/08/16/science/16scibks.html):

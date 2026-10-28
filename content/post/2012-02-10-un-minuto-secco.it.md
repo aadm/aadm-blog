@@ -2,9 +2,9 @@
 title: un minuto secco
 date: '2012-02-11'
 tags:
-- cycling
-- video
-- notes
+ - cycling
+ - video
+ - notes
 ---
 
 Ammetto che non mi ha un po' scocciato questa cosa.

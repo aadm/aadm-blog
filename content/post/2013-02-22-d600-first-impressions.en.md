@@ -2,8 +2,8 @@
 date: 2013-02-22
 title: d600 first impressions
 tags:
-- photo
-- gear
+ - photo
+ - gear
 series: Gear Reviews
 ---
 

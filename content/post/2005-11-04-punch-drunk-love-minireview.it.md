@@ -2,7 +2,7 @@
 title: punch drunk love minireview
 date: '2005-11-04T15:36:00'
 tags:
-- movies
+ - movies
 ---
 
 Punch Drunk Love, a.k.a. il lato oscuro di Adam Sandler.  

@@ -2,9 +2,9 @@
 date: 2012-06-06
 title: how a bicycle is made
 tags:
-- cycling
-- video
-- quote
+ - cycling
+ - video
+ - quote
 ---
 
 A 1945 video on Raleigh bicycles, worth watching for historical reasons but also for something that the speaker says towards the end of the movie (around the 16'45" mark):

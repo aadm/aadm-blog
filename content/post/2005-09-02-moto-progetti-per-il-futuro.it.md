@@ -2,7 +2,7 @@
 title: moto progetti per il futuro
 date: '2005-09-02T11:37:00'
 tags:
-- moto
+ - moto
 ---
 
 Metti che resto a Milano, e riesco finalmente ad avere una casa tutta mia (un sogno che dura da ormai parecchi anni). Sai cosa mi piacerebbe avere ?  

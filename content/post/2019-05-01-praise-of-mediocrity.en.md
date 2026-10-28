@@ -3,7 +3,7 @@ title: praise of mediocrity
 date: '2019-05-01T23:25:53'
 slug: praise-of-mediocrity
 tags:
-- quote
+ - quote
 ---
 
 > We call them hobbies, avocations, callings, passions. These are the noninstrumental activities that help to define us. They reward us with character because they involve an encounter with meaningful resistance — with nature’s laws, with the limits of our own bodies — as in carving wood, melding raw ingredients, fixing a broken appliance, writing code, timing waves or facing the point when the runner’s legs and lungs begin to rebel against him.

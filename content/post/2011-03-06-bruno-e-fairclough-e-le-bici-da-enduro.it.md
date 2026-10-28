@@ -2,7 +2,7 @@
 title: bruno e fairclough e le bici da enduro
 date: '2011-03-06T23:05:00'
 tags:
-- cycling
+ - cycling
 ---
 
 Dopo aver visto di persona come va Andrea Bruno sulla sua Covert, e poi

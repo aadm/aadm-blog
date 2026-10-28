@@ -2,8 +2,8 @@
 title: english writers
 date: '2011-02-17T21:35:00'
 tags:
-- misc
-- notes
+ - misc
+ - notes
 ---
 
 I love tech bloggers such as [Gruber](http://daringfireball.net/),

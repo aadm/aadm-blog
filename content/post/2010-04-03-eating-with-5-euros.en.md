@@ -2,8 +2,8 @@
 title: eating with 5 euros
 date: '2010-04-03T10:20:00'
 tags:
-- misc
-- photo
+ - misc
+ - photo
 ---
 
 {{< figure src="media/pizza-e-due-birre.jpg" alt="pizza e due birre a cinque euro" >}}

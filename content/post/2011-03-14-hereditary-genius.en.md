@@ -2,8 +2,8 @@
 title: hereditary genius
 date: '2011-03-14T09:04:00'
 tags:
-- quote
-- links
+ - quote
+ - links
 ---
 
 From ["Secrets of a Mind-Gamer"](http://www.nytimes.com/interactive/2011/02/20/magazine/mind-secrets.html), a fascinating article on a normal guy who becomes a memory champion:

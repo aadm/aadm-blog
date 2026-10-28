@@ -3,7 +3,7 @@ title: geolandscapes
 date: '2016-04-02T01:20:36'
 slug: geolandscapes
 tags:
-- photo
+ - photo
 ---
 
 [*[Click here for italian version.]*](/2016-04-02-geopaesaggi-libretto-it.html)

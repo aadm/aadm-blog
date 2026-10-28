@@ -2,7 +2,7 @@
 date: 2013-11-13
 title: giulia on youtube
 tags:
-- personal
+ - personal
 ---
 
 Giulia, la "mia" Giulia[^mia-giulia], protagonista a sua insaputa di un foto-documentario sulla traversata del Monte Bianco comparso su Youtube:

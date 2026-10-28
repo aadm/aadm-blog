@@ -3,8 +3,8 @@ title: get those flickr urls
 date: '2016-01-19T23:47:21'
 slug: get-those-flickr-urls
 tags:
-- tech
-- python
+ - tech
+ - python
 ---
 
 Warning: this is serious nerdy stuff. Not for the faint of heart. Carry on reading if:

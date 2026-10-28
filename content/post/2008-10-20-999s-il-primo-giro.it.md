@@ -2,8 +2,8 @@
 title: 999s il primo giro
 date: '2008-10-20T23:01:00'
 tags:
-- moto
-- photo
+ - moto
+ - photo
 ---
 
 Ducati 999, una moto che commercialmente vale zero, superata agli occhi del ducatista dalla bellissima (e potentissima) 1098, considerata un chiodo dai cultori delle jap perché arriva a malapena a 140cv all'albero, e un cesso dagli esteti innamorati della 916 o della MV F4.  

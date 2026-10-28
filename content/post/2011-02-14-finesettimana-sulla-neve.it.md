@@ -2,7 +2,7 @@
 title: finesettimana sulla neve
 date: '2011-02-14T23:21:00'
 tags:
-- photo
+ - photo
 ---
 
 ![](http://dl.dropbox.com/u/179731/3297857086.jpg)

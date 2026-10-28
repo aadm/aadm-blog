@@ -2,7 +2,7 @@
 title: lost hopes
 date: '2010-06-16T00:26:00'
 tags:
-- tv
+ - tv
 ---
 
 The creators of Lost, in an interview given in 2005 (right after the

@@ -2,8 +2,8 @@
 title: speedweek 2006 pictures
 date: '2006-08-08T08:37:00'
 tags:
-- moto
-- photo
+ - moto
+ - photo
 ---
 
 [![](http://static.flickr.com/86/209559792_7dd4dcc3cc_m.jpg)](http://www.flickr.com/photos/aadm/209559792/)  

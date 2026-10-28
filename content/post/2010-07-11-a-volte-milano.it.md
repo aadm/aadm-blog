@@ -2,7 +2,7 @@
 title: a volte milano
 date: '2010-07-11T23:29:00'
 tags:
-- misc
+ - misc
 ---
 
 ![](http://dl.dropbox.com/u/179731/799171656.jpg)

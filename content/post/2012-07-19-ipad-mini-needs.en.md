@@ -2,8 +2,8 @@
 date: 2012-07-19
 title: ipad mini needs
 tags:
-- computer
-- tech
+ - computer
+ - tech
 ---
 
 [Rumors](http://online.wsj.com/article/BT-CO-20120704-703673.html) of an upcoming iPad Mini are abundant.

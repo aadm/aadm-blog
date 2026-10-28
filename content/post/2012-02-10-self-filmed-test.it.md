@@ -2,8 +2,8 @@
 title: self filmed test
 date: '2012-02-10'
 tags:
-- cycling
-- video
+ - cycling
+ - video
 ---
 
 Ero in ricognizione a Montevecchia per studiare i percorsi da riprendere nel terzo episodio di "Winter Riding Milano"[^nota1]. Avevo con me la [Panasonic GF1](http://aadm.github.io/2010-09-11-it-was-unintentional.html) e il treppiede Gorillapod, cosicché ho deciso di fare qualche autoripresa. 

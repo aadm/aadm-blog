@@ -2,7 +2,7 @@
 date: 2013-10-26
 title: architetti al lavoro bis
 tags:
-- photo
+ - photo
 ---
 
 _(Questa è una copia del post dal nome analogo che trovate appena prima; unica differenza è il trattamento tramite [VSCO](http://vsco.co/film) delle fotografie, a riprodurre il look della pellicola Fuji 800Z)._

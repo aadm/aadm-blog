@@ -2,9 +2,9 @@
 date: 2013-01-21
 title: direttamente dal cassetto
 tags:
-- misc
-- links
-- notes
+ - misc
+ - links
+ - notes
 ---
 
 Attenzione, arriva una serie di appunti che butto lì, tanto per levarli dall'eterno stato di DRAFT.

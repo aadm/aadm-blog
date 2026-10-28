@@ -2,7 +2,7 @@
 date: 2013-03-25
 title: street photography workshop
 tags:
-- photo
+ - photo
 excerpt: Selezione di fotografie scattate durante il workshop di street photography
   con Giulio Di Meo a Milano.
 ---

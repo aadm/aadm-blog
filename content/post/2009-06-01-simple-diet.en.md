@@ -2,7 +2,7 @@
 title: simple diet
 date: '2009-06-01T23:12:00'
 tags:
-- misc
+ - misc
 ---
 
 A couple of quotes taken from [a nice article by Philip Greenspun](http://philip.greenspun.com/writing/changed-by-web-and-weblog) which does _not_ deal with diets:

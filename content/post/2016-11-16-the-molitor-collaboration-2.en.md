@@ -3,7 +3,7 @@ title: the molitor collaboration 2
 date: '2016-11-16T21:45:32'
 slug: the-molitor-collaboration-2
 tags:
-- photo
+ - photo
 ---
 
 {{< figure src="media/20161119_AA42093.jpg" alt="Photo" >}}

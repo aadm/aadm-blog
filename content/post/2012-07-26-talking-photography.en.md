@@ -2,8 +2,8 @@
 date: 2012-07-26
 title: talking photography
 tags:
-- links
-- photo
+ - links
+ - photo
 ---
 
 There are still pearls to be found on the internet, [after all](http://aadm.github.io/2012-06-02-these-tech-writers-invettiva.html).

@@ -2,8 +2,8 @@
 date: 2010-04-19
 title: martin gardner on the road
 tags:
-- notes
-- quote
+ - notes
+ - quote
 ---
 
 Avevo da tempo in casa una versione di Alice in Wonderland annotata da Martin Gardner, famoso editor della colonna di giochi matematici di Scientific American.  

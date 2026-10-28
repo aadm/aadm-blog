@@ -2,7 +2,7 @@
 title: nnapulitano
 date: '2011-07-26T18:21:00'
 tags:
-- computer
+ - computer
 ---
 
 ![](http://dl.dropbox.com/u/179731/8089060874.png)

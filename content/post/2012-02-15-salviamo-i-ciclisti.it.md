@@ -2,9 +2,9 @@
 title: salviamo i ciclisti
 date: '2012-02-15'
 tags:
-- misc
-- cycling
-- photo
+ - misc
+ - cycling
+ - photo
 ---
 
 [http://www.rotafixa.it/?p=542](http://www.rotafixa.it/?p=542)

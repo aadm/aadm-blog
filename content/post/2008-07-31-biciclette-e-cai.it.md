@@ -2,7 +2,7 @@
 title: biciclette e CAI
 date: '2008-07-31T23:07:00'
 tags:
-- cycling
+ - cycling
 ---
 
 Il pezzo ha come sottotitolo "In difesa della mountain bike". Lo trovate sul numero di agosto 2008 de "Lo Scarpone", il notiziario mensile del CAI.  

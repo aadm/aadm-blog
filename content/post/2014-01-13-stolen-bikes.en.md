@@ -2,10 +2,10 @@
 date: 2014-01-13
 title: stolen bikes and new bike
 tags:
-- photo
-- video
-- notes
-- cycling
+ - photo
+ - video
+ - notes
+ - cycling
 ---
 
 Last month two bikes were stolen from a certain garage in San Donato Milanese. Those were my mountain bikes; the garage, well that wasn't _mine_[^nota-garage].

@@ -2,7 +2,7 @@
 date: 2015-11-12
 title: last iteration
 tags:
-- tech
+ - tech
 ---
 
 Yes I know, the [last post](2015-03-13-black-and-white.html) before this one is dated March 2015.

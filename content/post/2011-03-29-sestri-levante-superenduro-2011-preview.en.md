@@ -2,8 +2,8 @@
 date: 2011-03-29
 title: sestri levante superenduro 2011 preview
 tags:
-- cycling
-- photo
+ - cycling
+ - photo
 ---
 
 Had a great day of riding last Saturday. Woke up at 6:30am, took the 7:39 train to Sestri Levante. Three hours or so, and then here I am in Sestri; cool breeze, warm sunshine, I started following the Superenduro signs. Here's a few pics that sum up the day.

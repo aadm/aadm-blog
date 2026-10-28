@@ -2,7 +2,7 @@
 title: il cameriere e la zuppa
 date: '2009-10-05T22:30:00'
 tags:
-- misc
+ - misc
 ---
 
 Customer says, “Waiter, taste this soup.” 

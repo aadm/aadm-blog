@@ -3,8 +3,8 @@ title: the end of gear addiction
 date: '2018-03-05T23:00:15'
 slug: the-end-of-gear-addiction
 tags:
-- photo
-- gear
+ - photo
+ - gear
 series: Gear Reviews
 ---
 

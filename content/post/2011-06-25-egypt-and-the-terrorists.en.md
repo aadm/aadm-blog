@@ -2,7 +2,7 @@
 title: egypt and the terrorists
 date: '2011-06-25T19:24:00'
 tags:
-- misc
+ - misc
 ---
 
 Last Thursday I arrived in the States, and I went through the usual US border

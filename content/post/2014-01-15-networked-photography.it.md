@@ -3,9 +3,9 @@ date: 2014-01-15
 title: networked photography (italian)
 slug: networked-photography-it
 tags:
-- photo
-- notes
-- links
+ - photo
+ - notes
+ - links
 ---
 
 

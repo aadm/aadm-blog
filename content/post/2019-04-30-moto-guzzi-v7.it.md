@@ -3,7 +3,7 @@ title: moto guzzi V7
 date: '2019-04-30T21:15:07'
 slug: moto-guzzi-v7
 tags:
-- moto
+ - moto
 ---
 
 *(Quella che segue era stata pensata come una copia preliminare della mia personalissima recensione della Guzzi V7, messa online per condividerla con un paio di amici; alla fine ho deciso di lasciarla così, un po' rozza, con quella serie di messaggi tratti dalla mia history Whatsapp, perché penso che catturi bene le emozioni di quei primi mesi).*

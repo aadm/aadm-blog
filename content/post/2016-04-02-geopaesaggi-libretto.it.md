@@ -3,7 +3,7 @@ title: geopaesaggi
 date: '2016-04-02T01:20:36'
 slug: geopaesaggi
 tags:
-- photo
+ - photo
 ---
 
 [*[Click here for english version.]*](/2016-04-02-geopaesaggi-libretto.html)

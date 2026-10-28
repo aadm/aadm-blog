@@ -2,8 +2,8 @@
 title: training at idroscalo
 date: '2010-04-02T00:56:00'
 tags:
-- cycling
-- photo
+ - cycling
+ - photo
 ---
 
 {{< figure src="media/idroscalo-grigne-sanmarco.jpg" alt="Idroscalo e Grigne" >}}

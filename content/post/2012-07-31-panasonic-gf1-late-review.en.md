@@ -2,8 +2,8 @@
 date: 2012-07-31
 title: panasonic gf1 late review
 tags:
-- photo
-- gear
+ - photo
+ - gear
 slug: panasonic-gf1-late-review
 series: Gear Reviews
 ---

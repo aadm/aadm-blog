@@ -2,7 +2,7 @@
 title: livigno pedaleda
 date: '2010-09-13T00:24:00'
 tags:
-- cycling
+ - cycling
 ---
 
 ![](http://dl.dropbox.com/u/179731/1111846972.jpg)

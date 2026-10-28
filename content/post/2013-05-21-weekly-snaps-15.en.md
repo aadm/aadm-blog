@@ -2,7 +2,7 @@
 date: 2013-05-21
 title: weekly snaps 15 / atmosfere
 tags:
-- photo
+ - photo
 series: weekly snaps
 ---
 

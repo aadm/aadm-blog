@@ -3,7 +3,7 @@ title: narrative
 date: '2017-07-12T01:06:08'
 slug: narrative
 tags:
-- photo
+ - photo
 ---
 
 A pretty simple demonstration that you only need four photos to make a narrative.

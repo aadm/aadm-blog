@@ -2,7 +2,7 @@
 date: 2012-07-12
 title: moving to github
 tags:
-- tech
+ - tech
 ---
 
 If somebody would actually read these posts he'd start thinking something like "what a loser".

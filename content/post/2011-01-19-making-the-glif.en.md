@@ -2,9 +2,9 @@
 title: making the glif
 date: '2011-01-19T01:43:00'
 tags:
-- misc
-- photo
-- tech
+ - misc
+ - photo
+ - tech
 ---
 
 [The Russians Used a Pencil: Idea to Market in 5 Months: Making the Glif](http://www.therussiansusedapencil.com/post/2794775825/idea-to-market-in-5-months-making-the-glif)

@@ -2,7 +2,7 @@
 title: canalone ovest grignone
 date: '2008-04-12T21:48:00'
 tags:
-- photo
+ - photo
 ---
 
 [![Grignone_Canale_Ovest_1807](http://farm4.static.flickr.com/3284/2407952675_282f41f347.jpg)](http://www.flickr.com/photos/aadm/2407952675/)  

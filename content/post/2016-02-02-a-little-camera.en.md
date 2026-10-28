@@ -3,8 +3,8 @@ title: a little camera
 date: '2016-02-02T20:23:26'
 slug: a-little-camera
 tags:
-- photo
-- gear
+ - photo
+ - gear
 series: Gear Reviews
 ---
 

@@ -2,7 +2,7 @@
 title: report disclaimer
 date: '2010-03-31T14:07:00'
 tags:
-- misc
+ - misc
 ---
 
 "This report relates the results of an advanced, quantitative seismic

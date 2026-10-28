@@ -2,8 +2,8 @@
 title: it was unintentional
 date: '2010-09-11T00:49:00'
 tags:
-- photo
-- gear
+ - photo
+ - gear
 ---
 
 ![](http://dl.dropbox.com/u/179731/1099159475.jpg)

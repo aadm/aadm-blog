@@ -2,8 +2,8 @@
 title: la repubblica vs new york times
 date: '2009-09-01T23:21:00'
 tags:
-- notes
-- links
+ - notes
+ - links
 ---
 
 Il 29 agosto 2009 il New York Times pubblica un articolo di Amy Cortese, "[Wiggling Their Toes at the Shoe Giants](http://www.nytimes.com/2009/08/30/business/30shoe.html)".

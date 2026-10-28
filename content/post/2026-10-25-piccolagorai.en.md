@@ -3,8 +3,8 @@ title: piccolagorai
 date: '2026-10-25T20:39:07+0100'
 author: aadm
 tags:
-- photo
-- cycling
+ - photo
+ - cycling
 ---
 
 I bought a gravel bike, and I organized a tour with friends around a lesser group of mountains in Trentino (Italy), called the Lagorai group.

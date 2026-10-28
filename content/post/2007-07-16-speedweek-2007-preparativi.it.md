@@ -2,7 +2,7 @@
 title: speedweek 2007 preparativi
 date: '2007-07-16T16:09:00'
 tags:
-- moto
+ - moto
 ---
 
 Mercoledì 19 luglio parto per l'Ungheria, destinazione Pannoniaring, per partecipare alla classe B (bicilindrici due valvole) del Ducati Speedweek (19-22 luglio 2007). Due ore di prove libere venerdì 20, poi prove cronometrate al sabato e gara di 10 giri domenica 22.  

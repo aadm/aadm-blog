@@ -2,7 +2,7 @@
 date: 2014-08-13
 title: eastern turkey
 tags:
-- photo
+ - photo
 ---
 
 <a href="https://www.flickr.com/photos/aadm/14832767096" title="20140530_AA19609 by Alessandro Amato, on Flickr"><img src="https://farm4.staticflickr.com/3890/14832767096_a1910bbee1_c.jpg" width="800" height="534" alt="20140530_AA19609"></a>

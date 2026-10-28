@@ -2,8 +2,8 @@
 title: Denver Boulder
 date: '2011-01-31T07:44:00'
 tags:
-- cycling
-- photo
+ - cycling
+ - photo
 ---
 
 Ho raccolto in un [fotoset su flickr](http://www.flickr.com/photos/aadm/sets/72157625939538354/with/5401468735/) alcune foto scattate durante l'ultimo mio viaggio in America. Sono stato prima a Denver [per una conferenza](http://www.seg.org/events/annual-meeting/denver2010/annual-mtg-intl-showcase) poi a Golden per una riunione alla [Colorado School of Mines](http://crusher.mines.edu/).  

@@ -3,7 +3,7 @@ title: aggiornamenti guzzi V7
 date: '2019-08-05'
 slug: aggiornamenti-guzzi-v7
 tags:
-- moto
+ - moto
 ---
 
 In aggiunta a [quanto scritto qualche tempo fa](/it/2019-04-30-moto-guzzi-v7.html), scrivo qualche altra nota dopo aver fatto con la mia Guzzi quasi settemila chilometri, di cui quattromila con l'upgrade "Trofeo" fatto montare a maggio 2019 dai fratelli Guareschi.

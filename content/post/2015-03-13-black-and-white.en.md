@@ -3,8 +3,8 @@ title: black and white
 date: '2015-03-13'
 slug: black-and-white
 tags:
-- photo
-- gear
+ - photo
+ - gear
 series: Gear Reviews
 ---
 

@@ -2,7 +2,7 @@
 title: she is snoring
 date: '2011-08-25T01:11:00'
 tags:
-- misc
+ - misc
 ---
 
 [![](http://dl.dropbox.com/u/179731/9351429683.jpg)](http://www.flickr.com/photos/aadm/sets/72157627511661292/)

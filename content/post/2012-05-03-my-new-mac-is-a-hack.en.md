@@ -2,8 +2,8 @@
 date: 2012-05-03
 title: my new mac is a hack
 tags:
-- computer
-- tech
+ - computer
+ - tech
 ---
 
 ![](http://dl.dropbox.com/u/179731/IMG_4551_hackintosh.jpg)

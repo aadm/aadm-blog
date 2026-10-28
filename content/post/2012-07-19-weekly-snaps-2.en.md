@@ -2,7 +2,7 @@
 date: 2012-07-19
 title: weekly snaps 2
 tags:
-- photo
+ - photo
 series: weekly snaps
 ---
 

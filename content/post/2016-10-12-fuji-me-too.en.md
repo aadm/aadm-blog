@@ -3,8 +3,8 @@ title: fuji-me-too
 date: '2016-10-12T22:36:17'
 slug: fuji-me-too
 tags:
-- photo
-- gear
+ - photo
+ - gear
 series: Gear Reviews
 ---
 

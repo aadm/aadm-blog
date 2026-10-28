@@ -2,8 +2,8 @@
 title: 1 hour and 19 minutes
 date: '2010-08-03T02:11:00'
 tags:
-- computer
-- tech
+ - computer
+ - tech
 ---
 
 Using everytrail for iphone: the app shows for this particular trip 33km in 1

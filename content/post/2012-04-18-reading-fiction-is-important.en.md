@@ -2,8 +2,8 @@
 title: reading fiction is important
 date: '2012-04-18T09:03:12'
 tags:
-- links
-- quote
+ - links
+ - quote
 ---
 
 So true:

@@ -3,7 +3,7 @@ title: capturing things
 date: '2016-03-29T23:52:55'
 slug: capturing-things
 tags:
-- photo
+ - photo
 ---
 
 How can you capture the wind on a photograph? How can you make the viewer feel the cold or the warmth of a place? How can you make landscape photography communicate the sense of a place? Can a photo be a substitute for the simple, raw emotions that one feels when he's out in the woods or in the mountains?

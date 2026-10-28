@@ -3,9 +3,9 @@ title: geoscience and python
 date: '2016-02-11T00:03:25'
 slug: geoscience-and-python
 tags:
-- python
-- geoscience
-- notes
+ - python
+ - geoscience
+ - notes
 ---
 
 Since I picked up Python a couple of years ago I have enjoyed my everyday job more and more. It's like being thrown back to my 12-year old self playing with a ZX Spectrum or Commodore-128, when all I wanted was to create videogames or do some other stuff[^fuck-around]; only back then I didn't have the perseverance and the excuses that I have now.

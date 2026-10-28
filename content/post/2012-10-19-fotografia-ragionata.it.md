@@ -2,8 +2,8 @@
 date: 2012-10-19
 title: fotografia estemporanea o ragionata
 tags:
-- photo
-- notes
+ - photo
+ - notes
 ---
 
 Qualche tempo fa cercavo uno sfogo per la mia fotografia. L'ho trovato pubblicando i miei [weekly snaps](tags.html#weekly%20snaps-ref); collezioni atematiche di fotografie scattate in diverse condizioni temporali, geografiche ed emozionali. O, evitando il pretenzioso vocabolario da pseudo artista e usando parole più terra terra, raccolta di foto prese un po' a casaccio dai miei archivi.

@@ -3,8 +3,8 @@ title: best sensor ever (italian)
 date: '2018-03-05T22:19:56'
 slug: best-sensor-ever-it
 tags:
-- photo
-- gear
+ - photo
+ - gear
 ---
 
 

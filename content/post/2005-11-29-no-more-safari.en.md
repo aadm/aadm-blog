@@ -2,7 +2,7 @@
 title: no more safari
 date: '2005-11-29T20:03:00'
 tags:
-- computer
+ - computer
 ---
 
 Ho appena scaricato flock, il nuovo "social browser" sviluppato sulla base di Firefox/Mozilla, e sono davvero senza parole: integrazione totale tra web browsing, blogging e photoblogging !  

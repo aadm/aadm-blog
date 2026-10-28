@@ -3,8 +3,8 @@ title: backcountry pyrenees
 date: '2016-10-16T10:29:11'
 slug: backcountry-pyrenees
 tags:
-- cycling
-- photo
+ - cycling
+ - photo
 ---
 
 October 2016, I finally get the chance to ride [my Nicolai Mojo](/2016-01-10-nicolai-mojo.html) in a proper setting. And what a test it has been!

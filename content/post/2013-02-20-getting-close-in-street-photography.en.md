@@ -2,7 +2,7 @@
 date: 2013-02-20
 title: getting close in street photography
 tags:
-- photo
+ - photo
 ---
 
 <a href="http://www.flickr.com/photos/aadm/8492593497/" title="img_TX400_03_12 by aadm, on Flickr"><img src="http://farm9.staticflickr.com/8100/8492593497_0a4bff6acb_c.jpg" width="800" height="525" alt="img_TX400_03_12"></a>

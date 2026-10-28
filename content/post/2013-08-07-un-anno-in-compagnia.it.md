@@ -2,7 +2,7 @@
 date: 2013-08-07
 title: un anno in compagnia
 tags:
-- photo
+ - photo
 ---
 
 Il 4 agosto Valentina ha compiuto un anno.

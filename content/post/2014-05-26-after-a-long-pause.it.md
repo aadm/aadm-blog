@@ -2,8 +2,8 @@
 date: 2014-05-26
 title: ripresa delle trasmissioni
 tags:
-- misc
-- notes
+ - misc
+ - notes
 slug: ripresa-delle-trasmissioni
 ---
 

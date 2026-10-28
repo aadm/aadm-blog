@@ -2,9 +2,9 @@
 date: 2012-06-29
 title: open mtb maps
 tags:
-- cycling
-- computer
-- tech
+ - cycling
+ - computer
+ - tech
 ---
 
 A short recap on how to build and install open mtb maps under OS X.

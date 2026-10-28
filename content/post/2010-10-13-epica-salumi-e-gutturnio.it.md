@@ -2,7 +2,7 @@
 title: epica salumi e gutturnio
 date: '2010-10-13T09:19:00'
 tags:
-- cycling
+ - cycling
 ---
 
 [![](http://dl.dropbox.com/u/179731/1304597870.jpg)](http://www.flickr.com/photos/aadm/sets/72157625019756243)

@@ -2,12 +2,12 @@
 title: breviario di inglese tecnico
 date: '2006-08-06T21:05:00'
 tags:
-- misc
+ - misc
 ---
 
 Le fonti da cui ho attinto sono "senior professionals" dell'azienda presso cui lavoro.  
   
-###Grammatica di base  
+### Grammatica di base  
   
 Verbi: uso arbitrario della terza persona singolare e selezione casuale degli ausiliari (es.: "it doesn't goes"). 
 
@@ -34,7 +34,7 @@ Immancabili vocaboli tecnico-manageriali da usare a mitraglietta nelle riunioni:
 * niz: needs  
 * no' au: know-how  
   
-###Frasario tecnico  
+### Frasario tecnico  
   
 * The saignal can arrives at the surface where is storied in digital format.  
 * The tool generates currents that's goes into the rock.  

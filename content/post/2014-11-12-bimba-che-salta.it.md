@@ -2,7 +2,7 @@
 date: 2014-11-12
 title: bimba che salta
 tags:
-- photo
+ - photo
 ---
 
 C'era una bimba che saltava sul letto ieri.

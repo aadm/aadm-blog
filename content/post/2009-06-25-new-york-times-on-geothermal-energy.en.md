@@ -2,9 +2,9 @@
 title: new york times on geothermal energy
 date: '2009-06-25T12:29:00'
 tags:
-- misc
-- notes
-- links
+ - misc
+ - notes
+ - links
 ---
 
 This is the article: 

@@ -2,7 +2,7 @@
 title: photography in space
 date: '2012-05-02T03:51:00'
 tags:
-- links
+ - links
 ---
 
 If you have love of photography and are a dreamy nerd enamored of Asimov's books, you really need to read this; it's an account by a NASA astronaut about the daily experiences of shooting photographs in space:

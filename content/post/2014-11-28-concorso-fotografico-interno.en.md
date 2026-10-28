@@ -2,7 +2,7 @@
 date: 2014-11-28
 title: concorso fotografico interno 2013-2014
 tags:
-- photo
+ - photo
 ---
 
 The only type of competition I have ever enjoyed is two-wheeled racing; I have raced motorbikes and mountain bikes in the past (and I will probably continue to do so once this daddy thing wears off).

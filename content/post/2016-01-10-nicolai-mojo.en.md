@@ -2,7 +2,7 @@
 title: nicolai mojo
 date: '2016-01-10T22:00:00'
 tags:
-- cycling
+ - cycling
 slug: nicolai-mojo
 ---
 

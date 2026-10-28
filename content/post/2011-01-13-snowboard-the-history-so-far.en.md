@@ -2,7 +2,7 @@
 title: snowboard the history so far
 date: '2011-01-13T00:20:00'
 tags:
-- misc
+ - misc
 ---
 
 ![](http://farm6.static.flickr.com/5246/5347824402_ef416d0cc2.jpg)

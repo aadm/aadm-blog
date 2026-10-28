@@ -2,7 +2,7 @@
 title: frozen the worst movie ever
 date: '2011-01-19T23:56:00'
 tags:
-- movies
+ - movies
 ---
 
 This is probably one of the worst movie I've ever watched. It is so bad that I

@@ -2,7 +2,7 @@
 title: my next camera
 date: '2010-08-19T10:36:00'
 tags:
-- photo
+ - photo
 ---
 
 I've stopped using my old Nikon D70s after it gave up once again during my
